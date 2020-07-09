@@ -10,6 +10,9 @@
     <style>
       html {
         background-color: #f4f7f9;
+        cursor: none;
+        font-family: 'Cormorant Infant', serif;
+        font-size: 14pt;
       }
 
       /* SMS ***********************************************/
@@ -20,7 +23,6 @@
         left: 50%;
         margin-left: -160px;
         transform: scaleY(-1);
-
       }
 
       .mySmsLine, .itSmsLine {
@@ -57,13 +59,60 @@
         color: black;
       }
 
-      /* Explanations ***********************************************/
+      /* Explanations **********************************************/
 
-      .explanations-title {
-        font-family: 'Cormorant Infant', serif;
-        font-style: 'uppercase';
-
+      .explanations {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 99%;
+        height: 99%;
+        
+        background: white;
       }
+
+      .explanations > .content {
+        height: calc(100% - 80px);
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 70px;
+        margin-bottom: 10px;
+
+        overflow-y: auto;
+
+        padding: 0 40px;
+
+        font-family: 'Cormorant Infant', serif;
+        font-size: 14pt;
+      }
+
+      @media (min-width: 576px) {
+        .explanations {
+          position: absolute;
+          width: 540px;
+          height: 405px;
+          left: 50%;
+          top: 50%;
+          margin-left: -270px;
+          margin-top: -202px;
+          border: solid 1px black;
+        }
+
+        .explanations > .content {
+          height: 325px;
+          margin-left: 30px;
+        margin-right: 30px;
+        }
+      }
+
+      .explanations > .close {
+        position: absolute;
+        right: 10px;
+        top: 10px;
+        font-size: 50px;
+        cursor: pointer;
+      }
+
 
       /* other ***********************************************/
       .countDown {
@@ -73,6 +122,11 @@
         font-size: 30pt;
       }
 
+      .cursor {
+        position: absolute;
+        left: -100px;
+        top: -100px;
+      }
       .copyright {
         position: absolute;
         bottom: 30px;
@@ -102,7 +156,17 @@
 
     </div>
     <div class="countDown" id="countDown"></div>
+    <div class="cursor" id="cursor">STOP</div>
     <div class="copyright">Titre - 2020 - V</div>
+    <div class="explanations" id="explanations">
+      <div class="close" id="closeExplanations">×</div>
+      <div class="content">
+        <H2 class="explanations-title">Le titre !</H2>
+        <p>Il faut faire la distinction entre l’art qui utilise le numérique comme simple outil pour créer des objets – photographie, impression, sculpture ou musique – et l’art qui l’utilise comme médium à part entière. Dans ce second cas, l’œuvre est produite, stockée et présentée uniquement sous format numérique et en exploite le potentiel interactif ou participatif.</p>
+        <p>Un premier facteur caractérise les arts numériques : l’interactivité. Alors que les œuvres d’art « classiques » (peinture, sculpture...) restaient statiques, soumises au seul regard contemplatif du spectateur, les œuvres d’art « technologiques » privilégient d’autres sens : en particulier le toucher, ainsi que la gestuelle. L’artiste n’est plus l’unique « créateur » de l’œuvre mais souvent le médiateur ou l’animateur des interactions entre le public et celle-ci.</p>
+        <p>« Une fenêtre ouverte par laquelle on puisse regarder l’histoire.</p>
+      </div>
+    </div>
 <!-- CDC 
   TODO: 
   V UI
@@ -111,12 +175,33 @@
   V stop on click and restart
   V sms blocks aleatoir
   V recycle views / clear views
-  * animations + sound
-  * popup text explicatif
+  V popup text explicatif
+  * icon close
+  V sound
+  * animations
+
   * test multi devices
+  V curseur custom
 
 -->
+    <!--<audio preload="true" controls="none" src="./res/audio/1111.ogg" style="display: none;" > -->
+
     <script>
+      var countDownPeriod = 1000
+      var fixedDelay = 50
+      var variableDelay = 200
+
+      var sounds = Array(50).fill(1).map(() => new Audio("./res/audio/1111.ogg"))
+      var soundIdx = 0
+    
+      
+      
+
+      function playSound() {
+        soundIdx = (soundIdx + 1) % sounds.length
+        //sounds[soundIdx].play()
+      }
+
       // UI fonctions
 
       var displayedElements = []
@@ -135,6 +220,8 @@
         element.innerHTML = html
         var smsList = document.getElementById('smsList')
         smsList.insertBefore(element, smsList.firstChild)
+
+        playSound()
 
         displayedElements.push(element)
         for (var elem of displayedElements) {
@@ -175,8 +262,7 @@
 
       
       var floodId = null
-      var fixedDelay = 200
-      var variableDelay = 1000
+      
       function startFlood() {
         appendSms(getNextSMS())
         floodId = setTimeout(startFlood, fixedDelay + getRandomInt(variableDelay))
@@ -195,31 +281,35 @@
 
       var count = 0
       var countDownId = null
-      var countDownPeriod = 1000
+      
       function doCountDown() {
-        console.log("toto3")
-
         displayCountDown(count)
-                  console.log("toto4")
 
         count--
         if (count < 0) {
-                    console.log("toto5")
-
           startFlood()
           countDownId = null
         } else {
-                    console.log("toto6")
-
           countDownId = setTimeout(doCountDown, countDownPeriod)
         }
       }
 
+      var tooltip = document.getElementById("cursor")
+      function showCustomCursor(ev) {
+        tooltip.style.left = ev.pageX + 'px'
+        tooltip.style.top = ev.pageY + 'px'
+      }
 
       // init
       function initialize() {
-        document.addEventListener("click",stopFlood)
+        //document.getElementById("smsList").addEventListener("click", stopFlood)
+        document.addEventListener("click", stopFlood)
+        document.addEventListener("mousemove", showCustomCursor)
       
+        document.getElementById("closeExplanations").addEventListener("click",
+          ev => {
+            document.getElementById("explanations").style.display = "none"
+          })
         startFlood()  
       }
 
