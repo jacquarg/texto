@@ -586,7 +586,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "D’accord<br>Préviens moi quand tu as terminé!<br>"},
+          text: "D’accord<br>Préviens moi quand tu as terminé!"},
         {
           me: true,
           text: "We keep in touch"
@@ -596,28 +596,28 @@ var blocks = [
           text: "On ira voir la galerie de M. G."},
         {
           me: true,
-          text: "Ahhhh<br>"
+          text: "Ahhhh"
         },
         {
           me: false,
-          text: "Maintenant que tu sais qui c’est <br>  ;)<br>"},
+          text: "Maintenant que tu sais qui c’est <br>  ;)"},
         {
           me: true,
-          text: "Ouai grave <br>  Good ideaaaa<br>"
+          text: "Ouai grave <br>  Good ideaaaa"
         },
         {
           me: false,
           text: "Je te ferai un tour de mes galeries ‘préférées’ <br>Puis on peux aller jouer chez moi si tu as un jeu ou ailleurs!<br>Up to you ;)"},
         {
           me: true,
-          text: "Well lets see <br>  🙃<br>"
+          text: "Well lets see <br>  🙃"
         },
       ],
 
       [
         {
           me: true,
-          text: "Hey!<br>  Les élèves ?<br>"
+          text: "Hey!<br>  Les élèves ?"
         },
         {
           me: false,
@@ -649,7 +649,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "Bien ouej!<br>"},
+          text: "Bien ouej!"},
         {
           me: true,
           text: "A tester"
@@ -659,42 +659,42 @@ var blocks = [
           text: "Des vitraux?<br>Tu as l’Eglise comme client?"},
         {
           me: true,
-          text: "Le pape<br>  On se textote <br>  Et jesus <br>  On s’e-mail <br>  😛<br>"
+          text: "Le pape<br>  On se textote <br>  Et jesus <br>  On s’e-mail <br>  😛"
         },
         {
           me: false,
           text: "Passe par jesus direct!<br>Il paie cash!"},
         {
           me: true,
-          text: "Et toi t’as encore des cours là ?<br>"
+          text: "Et toi t’as encore des cours là ?"
         },
         {
           me: false,
           text: "Ou en eau benite!<br>Avec tout les vampires que tu croises!<br>  J’ai terminé <br>  Je vais retrouver des potes là"},
         {
           me: true,
-          text: "Ok cool <br>  Bah on se capte demain<br>  🙃<br>"
+          text: "Ok cool <br>  Bah on se capte demain<br>  🙃"
         },
         {
           me: false,
-          text: "En mode chill!<br><br>Oui!!! C’est noté! Trop hâte 😘<br>"},
+          text: "En mode chill!<br><br>Oui!!! C’est noté! Trop hâte 😘"},
         {
           me: true,
-          text: "Enjoy <br>  😘<br>"
+          text: "Enjoy <br>  😘"
         },
         {
           me: false,
-          text: "Thanks ;)<br>"},
+          text: "Thanks ;)"},
       ],
 
       [
        {
           me: true,
-          text: "Ah bah j’ai bien picolé ! J’espère que toi aussi 😂<br>"
+          text: "Ah bah j’ai bien picolé ! J’espère que toi aussi 😂"
         },
         {
           me: false,
-          text: "Tu gardes tes forces pour tout à l’heure hein!!! ;) 😂😅<br>"},
+          text: "Tu gardes tes forces pour tout à l’heure hein!!! ;) 😂😅"},
         {
           me: true,
           text: "🔥 le feu sacré du ninja"
@@ -704,11 +704,11 @@ var blocks = [
           text: "Yay!"},
         {
           me: true,
-          text: "Tu t’en sors avec le dossier ?<br>"
+          text: "Tu t’en sors avec le dossier ?"
         },
         {
           me: false,
-          text: "J’ai été payé par le C.<br>Du coup je bosse demain 😅<br>"},
+          text: "J’ai été payé par le C.<br>Du coup je bosse demain 😅"},
         {
           me: true,
           text: "Bravo 🍾"
@@ -721,70 +721,70 @@ var blocks = [
       [
         {
           me: true,
-          text: "Ahhh <br>  Je viens de recevoir seulement maintenant ton texto<br>"
+          text: "Ahhh <br>  Je viens de recevoir seulement maintenant ton texto"
         },
         {
           me: false,
           text: "What?<br>  Aaaah<br>  Okok"},
         {
           me: true,
-          text: "Le réseau est à la manif<br>"
+          text: "Le réseau est à la manif"
         },
         {
           me: false,
-          text: "Bah oui ;) <br>  Alors j’ai une table à Los GUEROS » pour 20h30 (on a pris notre verre de vin juste à côté)<br>"},
+          text: "Bah oui ;) <br>  Alors j’ai une table à Los GUEROS » pour 20h30 (on a pris notre verre de vin juste à côté)"},
         {
           me: true,
-          text: "Ok 😎 <br>  On se retrouve là bas <br>  Épée des humbles !<br>"
+          text: "Ok 😎 <br>  On se retrouve là bas <br>  Épée des humbles !"
         },
         {
           me: false,
-          text: "Héhé!<br>😬<br>"},
+          text: "Héhé!<br>😬"},
         {
           me: true,
-          text: "Ah j’ai zappé ton pull<br>"
+          text: "Ah j’ai zappé ton pull"
         },
         {
           me: false,
           text: "Ben je te revois ;)"},
         {
           me: true,
-          text: "No brain anymore <br>  Nan nan <br>  Dès demain je pars en courant<br>"
+          text: "No brain anymore <br>  Nan nan <br>  Dès demain je pars en courant"
         },
         {
           me: false,
-          text: "J’ai trouvé ça cute que tu le gardes et très mal poli et mal placé de te lâcher « stup mon pull! » 😂<br>  😁<br>"},
+          text: "J’ai trouvé ça cute que tu le gardes et très mal poli et mal placé de te lâcher « stup mon pull! » 😂<br>  😁"},
         {
           me: true,
           text: "Jusqu’en Ukraine <br>  😛<br>  Enfin bon <br>  Bonne nuit la biche <br>  Merci pour la soirée"
         },
         {
           me: false,
-          text: "Bonne Nuit!<br><br>C’était trop cool <br>Plaisir partagé 😘<br>"},
+          text: "Bonne Nuit!<br><br>C’était trop cool <br>Plaisir partagé 😘"},
         {
           me: true,
-          text: "Des kiss kiss <br>  😘<br>"
+          text: "Des kiss kiss <br>  😘"
         },
         {
           me: false,
-          text: "Oh oui des kiss 💋 <br>"},
+          text: "Oh oui des kiss 💋 "},
       ],
 
       [
         {
           me: true,
-          text: "🙃<br>  Ça va ?<br>"
+          text: "🙃<br>  Ça va ?"
         },
         {
           me: false,
-          text: "Oui <br>Un peu fatigué mais ça va :)<br>  Tu n’as pas rêvé d’U ça va?!<br>"},
+          text: "Oui <br>Un peu fatigué mais ça va :)<br>  Tu n’as pas rêvé d’U ça va?!"},
         {
           me: true,
           text: "J’ai regardé mon phone trop vite ce matin<br>  Tout oublié <br>  La je vais pecho des fruits <br>  Et boire un café"
         },
         {
           me: false,
-          text: "Good idea <br>  Bon petit dej ;)<br>"},
+          text: "Good idea <br>  Bon petit dej ;)"},
         {
           me: true,
           text: "🙃<br>  Ah oui il est 13h quand même<br>  Elles sont cool ces vacances"
@@ -815,7 +815,7 @@ var blocks = [
           text: "Nice!!!!"},
         {
           me: true,
-          text: "Et alors les tournois préparatoires ?<br>  T’es prêt pour la big compet ?<br>"
+          text: "Et alors les tournois préparatoires ?<br>  T’es prêt pour la big compet ?"
         },
         {
           me: false,
@@ -833,62 +833,62 @@ var blocks = [
         },
         {
           me: false,
-          text: "Yes!<br>Quand j’ai fini de t’appelle et on ira se prendre un verre après?<br>  Meme grailler si C’est l’heure <br>  T’es tjs en vacance? ;)<br>"},
+          text: "Yes!<br>Quand j’ai fini de t’appelle et on ira se prendre un verre après?<br>  Meme grailler si C’est l’heure <br>  T’es tjs en vacance? ;)"},
         {
           me: true,
           text: "Ok ok seulement si t’as tout defonce"
         },
         {
           me: false,
-          text: "Deal!<br>"},
+          text: "Deal!"},
         {
           me: true,
-          text: "Et ouai ouai <br>  Je suis en vacances <br>  En ce moment <br>  C’est pas mal <br>  Tu connais ?<br>"
+          text: "Et ouai ouai <br>  Je suis en vacances <br>  En ce moment <br>  C’est pas mal <br>  Tu connais ?"
         },
         {
           me: false,
-          text: "Les vacances?<br>Ouai ça me parle <br>  Cest pas mal je crois?!<br>"},
+          text: "Les vacances?<br>Ouai ça me parle <br>  Cest pas mal je crois?!"},
         {
           me: true,
-          text: "C’est plutôt niceeeee<br>  Ça se vend en supermarché <br>  En barre<br>  Des kiss kiss <br>  D <br>  Kill it<br>"
+          text: "C’est plutôt niceeeee<br>  Ça se vend en supermarché <br>  En barre<br>  Des kiss kiss <br>  D <br>  Kill it"
         },
         {
           me: false,
-          text: "Bisous! Hâte de voir tes yeux en amande! 😱(mais qu’il est relou ce mec!)<br>"},
+          text: "Bisous! Hâte de voir tes yeux en amande! 😱(mais qu’il est relou ce mec!)"},
         {
           me: true,
           text: "😂<br>  Pareil <br>  Mais avec tes tâches de rousseurs"
         },
         {
           me: false,
-          text: "Han! <br>She’s soooo cute! <br>C’est promis j’en rajoute pour de main <br><br>🙃<br>"},
+          text: "Han! <br>She’s soooo cute! <br>C’est promis j’en rajoute pour de main <br><br>🙃"},
         {
           me: true,
           text: "Au feutre"
         },
         {
           me: false,
-          text: "Non des vrais <br>  Pareil au supermarché juste à côté du rayon vacances ;)<br>"},
+          text: "Non des vrais <br>  Pareil au supermarché juste à côté du rayon vacances ;)"},
         {
           me: true,
-          text: "Ouhhhh<br>  💙<br>"
+          text: "Ouhhhh<br>  💙"
         },
         {
           me: false,
-          text: "Hahahahaha <br>  Trippy!!!!!<br>  🙃❤️🙃❤️👌<br>"},
+          text: "Hahahahaha <br>  Trippy!!!!!<br>  🙃❤️🙃❤️👌"},
       ],
 
       [
         {
           me: false,
-          text: "Hello 👋 <br>Je n’ai pas toute ma voix mais si tu es dispo ravi d’échanger avec toi avec de mots et des dessins <br>  Mon mal de tête est bien passé <br>  Tu serai dispo pour un café demain 12h<br>  J’ai ma réunion avec le C. à 14h30 mais j’adorerai te voir avant si tu es dispo.<br>À moins que les vacances ...<br>"},
+          text: "Hello 👋 <br>Je n’ai pas toute ma voix mais si tu es dispo ravi d’échanger avec toi avec de mots et des dessins <br>  Mon mal de tête est bien passé <br>  Tu serai dispo pour un café demain 12h<br>  J’ai ma réunion avec le C. à 14h30 mais j’adorerai te voir avant si tu es dispo.<br>À moins que les vacances ..."},
         {
           me: true,
           text: "OMG <br>  Alors"
         },
         {
           me: false,
-          text: "What? 😅<br>"},
+          text: "What? 😅"},
         {
           me: true,
           text: "Là je suis en banlieue"
@@ -902,7 +902,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "Merci <br>Ton compliment sur les taches de rousseur ...Inspiré<br>"},
+          text: "Merci <br>Ton compliment sur les taches de rousseur ...Inspiré"},
         {
           me: true,
           text: "Oh yeah"
@@ -912,28 +912,28 @@ var blocks = [
           text: "Ahahaa"},
         {
           me: true,
-          text: "I just love it <br>  You know<br>"
+          text: "I just love it <br>  You know"
         },
         {
           me: false,
-          text: "😂😂😂😂😂<br>"},
+          text: "😂😂😂😂😂"},
         {
           me: true,
-          text: "Donc demain à midi<br>  Je serais pas à panam<br>  Je rentre lundi soir<br>"
+          text: "Donc demain à midi<br>  Je serais pas à panam<br>  Je rentre lundi soir"
         },
         {
           me: false,
           text: "Je t’entend le dire avec l’accent ricain sarcastique <br>  Aah ok ok"},
         {
           me: true,
-          text: "Exactly <br>  You know it<br>"
+          text: "Exactly <br>  You know it"
         },
         {
           me: false,
           text: "Ben le lendemain <br>  J’ai cours en journée mais ensuite dispo"},
         {
           me: true,
-          text: "Et mardi why not<br>"
+          text: "Et mardi why not"
         },
         {
           me: false,
@@ -951,21 +951,21 @@ var blocks = [
         },
         {
           me: false,
-          text: "Ahahaha <br>  Calendrier de vacance?<br>"},
+          text: "Ahahaha <br>  Calendrier de vacance?"},
         {
           me: true,
           text: "But I will check<br>  Les rendezvous"
         },
         {
           me: false,
-          text: "Plage ou bridge <br>  Il y a les rdv ... tu restes sollicitée ;)<br>Okay Ben tu me tiens au jus ;)<br>  Tu es chez tes grands parents?<br>"},
+          text: "Plage ou bridge <br>  Il y a les rdv ... tu restes sollicitée ;)<br>Okay Ben tu me tiens au jus ;)<br>  Tu es chez tes grands parents?"},
         {
           me: true,
           text: "Yep <br>  Tu me fais me répéter"
         },
         {
           me: false,
-          text: "Nice! ;)<br>"},
+          text: "Nice! ;)"},
         {
           me: true,
           text: "😂<br>  Bah euh tranquille"
@@ -986,20 +986,20 @@ var blocks = [
         },
         {
           me: false,
-          text: "Je vais te laisser profiter d’eux alors?<br>"},
+          text: "Je vais te laisser profiter d’eux alors?"},
         {
           me: true,
-          text: "Et je fumé un joint<br>  Et j’ai pris ton vinyl<br>  Car mon lecteur est ici <br>  D’ailleurs je vais le mettre now<br>"
+          text: "Et je fumé un joint<br>  Et j’ai pris ton vinyl<br>  Car mon lecteur est ici <br>  D’ailleurs je vais le mettre now"
         },
         {
           me: false,
-          text: "Héhé <br>Tu me diras ce que tu en penses <br>  C’est 'disco'<br>    🥰<br>"},
+          text: "Héhé <br>Tu me diras ce que tu en penses <br>  C’est 'disco'<br>    🥰"},
       ],
 
       [
         {
           me: false,
-          text: ";)<br>  J’ai envie de faire des expos avec toi <br>  Et de prendre ma revanche aux échecs <br>  ;)<br>"},
+          text: ";)<br>  J’ai envie de faire des expos avec toi <br>  Et de prendre ma revanche aux échecs <br>  ;)"},
         {
           me: true,
           text: "Ok <br>  Une partie de magic <br>  Aussi <br>  Que je perde pas les basics"
@@ -1009,7 +1009,7 @@ var blocks = [
           text: "Carrément ;)<br>J’ai trop envie de continuer ton apprentissage <br>  Mais le week-end prochain si tu es partante on pourrai jouer contre d’autre personnes en équipe de deux <br>Beginners are welcome <br>  Je t’en avais parlé je crois"},
         {
           me: true,
-          text: "Yes yes <br>  Genre dimanche ?<br>"
+          text: "Yes yes <br>  Genre dimanche ?"
         },
         {
           me: false,
@@ -1020,21 +1020,21 @@ var blocks = [
         },
         {
           me: false,
-          text: "Okay okay busy woman <br>  Haha <br><br>"},
+          text: "Okay okay busy woman <br>  Haha <br>"},
         {
           me: true,
-          text: "Et tu tombes dedans <br>  Hehe<br>"
+          text: "Et tu tombes dedans <br>  Hehe"
         },
         {
           me: false,
-          text: "Mais non!<br>Je sais que tu es ok ;)<br><br>Et vendredi si on commence pas trop tard on peut se faire un vrai tour des bonnes galerie<br>  Galeries*<br>  Ça pourrait être cool ça <br>  Goodman / Perrotin / Ropac / VMH...<br>"},
+          text: "Mais non!<br>Je sais que tu es ok ;)<br><br>Et vendredi si on commence pas trop tard on peut se faire un vrai tour des bonnes galerie<br>  Galeries*<br>  Ça pourrait être cool ça <br>  Goodman / Perrotin / Ropac / VMH..."},
         {
           me: true,
-          text: "Yep<br>"
+          text: "Yep"
         },
         {
           me: false,
-          text: "Wow 3 more dates <br>I’m a lucky man! 😅<br>"},
+          text: "Wow 3 more dates <br>I’m a lucky man! 😅"},
       ],
 
 
@@ -1054,14 +1054,14 @@ var blocks = [
           text: "Oui ça marche <br><br>  Bonne lecture"},
         {
           me: true,
-          text: "😘<br>"
+          text: "😘"
         },
         {
           me: false,
           text: "Je vais retourner me reposer <br>  Merci!"},
         {
           me: true,
-          text: "Bonnes vacances 😂<br>"
+          text: "Bonnes vacances 😂"
         },
         {
           me: false,
@@ -1075,7 +1075,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "Vous êtes bien matinale!<br>Dois-je m’inquiéter? Appeler la police des vacances? 😂<br><br>J’ai plus mal à la tête, je ne tousse plus 😃😬<br>MAIS je n’ai plus de voix 😫😫<br>"},
+          text: "Vous êtes bien matinale!<br>Dois-je m’inquiéter? Appeler la police des vacances? 😂<br><br>J’ai plus mal à la tête, je ne tousse plus 😃😬<br>MAIS je n’ai plus de voix 😫😫"},
         {
           me: true,
           text: "Oke il faut chuchoter <br>  C’est les chanteurs d’opéra"
@@ -1085,7 +1085,7 @@ var blocks = [
           text: "Chuchotement ... oui"},
         {
           me: true,
-          text: "Qui conseillent ça <br>  J’ai peu dormi<br>"
+          text: "Qui conseillent ça <br>  J’ai peu dormi"
         },
         {
           me: false,
@@ -1099,18 +1099,18 @@ var blocks = [
           text: "Merci je ferai attention.<br>Et toi? Comment s’annonce ta journée?"},
         {
           me: true,
-          text: "Journée chiante<br>"
+          text: "Journée chiante"
         },
         {
           me: false,
-          text: "Ah bon?<br>Bah alors? <br>(Excuse moi des laps de temps entre les messages, monp’vier était là <br>  Mon plombier*<br>"},
+          text: "Ah bon?<br>Bah alors? <br>(Excuse moi des laps de temps entre les messages, monp’vier était là <br>  Mon plombier*"},
         {
           me: true,
-          text: "No problem 🙃<br>  It’s a day for being sad<br>  But it’s ok<br>  After all the happiness that I had<br>"
+          text: "No problem 🙃<br>  It’s a day for being sad<br>  But it’s ok<br>  After all the happiness that I had"
         },
         {
           me: false,
-          text: "Being sad ? <br>Why 😶<br>  Je t’appelle?<br>"},
+          text: "Being sad ? <br>Why 😶<br>  Je t’appelle?"},
         {
           me: true,
           text: "La famille le futur"
@@ -1127,7 +1127,7 @@ var blocks = [
           text: "Ca marche"},
         {
           me: true,
-          text: "Not a big deal<br>"
+          text: "Not a big deal"
         },
         {
           me: false,
@@ -1148,35 +1148,35 @@ var blocks = [
         },
         {
           me: false,
-          text: "😬<br>"},
+          text: "😬"},
         {
           me: true,
-          text: "Alors ton rdv ?<br>"
+          text: "Alors ton rdv ?"
         },
         {
           me: false,
           text: "Hey <br>You <br>My eyes were starting to close off"},
         {
           me: true,
-          text: "Ahhhh<br>"
+          text: "Ahhhh"
         },
         {
           me: false,
           text: "Mon rdv était ok<br>  Ils sont cheap<br>  Dans leur approche de la prod"},
         {
           me: true,
-          text: "Hummmm<br>  Ok <br>  La je vais prendre un Uber <br>  Et rentrer à panam <br>  Je te laisse dormir 😂<br>"
+          text: "Hummmm<br>  Ok <br>  La je vais prendre un Uber <br>  Et rentrer à panam <br>  Je te laisse dormir 😂"
         },
         {
           me: false,
           text: "Oui <br>Ils revoient le catalogue à la baisse etc... <br>rien n’est acte"},
         {
           me: true,
-          text: "Et on se capte pour le café ?<br>"
+          text: "Et on se capte pour le café ?"
         },
         {
           me: false,
-          text: "Ok ok <br>On se capte demain!<br>"},
+          text: "Ok ok <br>On se capte demain!"},
       ],
 
       [
@@ -1189,7 +1189,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "Demain serait sur pied! (Croise les doigts!)<br><br>Rentre bien😘<br>  😂😂😂😂😂<br>"},
+          text: "Demain serait sur pied! (Croise les doigts!)<br><br>Rentre bien😘<br>  😂😂😂😂😂"},
         {
           me: true,
           text: "Ah si t’es un mur de bactéries = no kiss 💋"
@@ -1210,52 +1210,52 @@ var blocks = [
         },
         {
           me: false,
-          text: "Bon on verra demain si tu ne craque pas devant les taches de rousseur, j’en ai rajouté<br>"},
+          text: "Bon on verra demain si tu ne craque pas devant les taches de rousseur, j’en ai rajouté"},
         {
           me: true,
-          text: "😂<br>"
+          text: "😂"
         },
       ],
 
       [
         {
           me: false,
-          text: "You will be find<br>"},
+          text: "You will be find"},
         {
           me: true,
-          text: "Lapsus<br>  😘<br>"
+          text: "Lapsus<br>  😘"
         },
         {
           me: false,
-          text: "😅<br>  True <br>  Fine*<br>  Love your brain so fucking much<br>"},
+          text: "😅<br>  True <br>  Fine*<br>  Love your brain so fucking much"},
         {
           me: true,
           text: "Omg I have a purpose tomorrow<br>  How am I gonna deaaaaal<br>  Well simple"
         },
         {
           me: false,
-          text: "Deal with what?<br>"},
+          text: "Deal with what?"},
         {
           me: true,
           text: "You take the purpose"
         },
         {
           me: false,
-          text: "😱<br>"},
+          text: "😱"},
         {
           me: true,
           text: "Put some salt"
         },
         {
           me: false,
-          text: "🙈<br>"},
+          text: "🙈"},
         {
           me: true,
-          text: "And eat it<br>"
+          text: "And eat it"
         },
         {
           me: false,
-          text: "🙃<br>"},
+          text: "🙃"},
         {
           me: true,
           text: "While waiting for the digestion<br>  You forgot about it"
@@ -1265,11 +1265,11 @@ var blocks = [
           text: "About what?"},
         {
           me: true,
-          text: "And 💩 it 24h later<br>"
+          text: "And 💩 it 24h later"
         },
         {
           me: false,
-          text: "😫🤣<br>"},
+          text: "😫🤣"},
         {
           me: true,
           text: "That was the story of purpose"
@@ -1279,25 +1279,25 @@ var blocks = [
           text: "Alright alright"},
         {
           me: true,
-          text: "Now you can sleep<br>"
+          text: "Now you can sleep"
         },
         {
           me: false,
-          text: "I will 😬<br>"},
+          text: "I will 😬"},
         {
           me: true,
-          text: "And dream about <br>  Story of the night<br>"
+          text: "And dream about <br>  Story of the night"
         },
         {
           me: false,
-          text: "Thanks for the words 😘<br>"},
+          text: "Thanks for the words 😘"},
         {
           me: true,
-          text: "*~générique ~*<br>"
+          text: "*~générique ~*"
         },
         {
           me: false,
-          text: "😂😂😂😂<br>"},
+          text: "😂😂😂😂"},
         {
           me: true,
           text: "’Tout élément ressemblant à la vie réelle n’est que pur hasard’"
@@ -1307,7 +1307,7 @@ var blocks = [
           text: "Mmh really though?"},
         {
           me: true,
-          text: "😛<br>"
+          text: "😛"
         },
       ],
 
@@ -1317,28 +1317,28 @@ var blocks = [
           text: "J’ai juste une laryngite...<br>Ca va!"},
         {
           me: true,
-          text: "J’ai pas fini <br>  T’as encore cours ?<br>"
+          text: "J’ai pas fini <br>  T’as encore cours ?"
         },
         {
           me: false,
           text: "Plus aujourd’hui.<br>Je bosse de chez moi.<br>  Mais 20h si tu es tjs ok ;)"},
         {
           me: true,
-          text: "Ok je bosse à la N.R. <br>  Si tu veux bosser avec moi<br>  T’es sous antibiotiques?<br>"
+          text: "Ok je bosse à la N.R. <br>  Si tu veux bosser avec moi<br>  T’es sous antibiotiques?"
         },
         {
           me: false,
-          text: "Même pas <br>J’ai juste mangé des bonbons qui ont un goût de ciment 😱😫<br>Mais pas d’antibiotiques ;) <br>  Bosser? ...<br><br>Ben je vais te laisser tranquille <br>Je me connais je vais te déconcentrer.<br>Mais promis la prochaine fois (en faites je viens de sortir dans mon iPad ... donc oui je vais te déconcentrer 🤪)<br>"},
+          text: "Même pas <br>J’ai juste mangé des bonbons qui ont un goût de ciment 😱😫<br>Mais pas d’antibiotiques ;) <br>  Bosser? ...<br><br>Ben je vais te laisser tranquille <br>Je me connais je vais te déconcentrer.<br>Mais promis la prochaine fois (en faites je viens de sortir dans mon iPad ... donc oui je vais te déconcentrer 🤪)"},
         {
           me: true,
-          text: "C’est pas plutôt l’inverse ?<br>"
+          text: "C’est pas plutôt l’inverse ?"
         },
         {
           me: false,
-          text: "Tu vas me déconcentrer....?<br>🙈<br>Arrête je rougi! 😬😊<br>"},
+          text: "Tu vas me déconcentrer....?<br>🙈<br>Arrête je rougi! 😬😊"},
         {
           me: true,
-          text: "Réflexe de garçon trop chouchouté 😂😘<br>"
+          text: "Réflexe de garçon trop chouchouté 😂😘"
         },
         {
           me: false,
@@ -1351,77 +1351,77 @@ var blocks = [
           text: "Vin ou bière?"},
         {
           me: true,
-          text: "Pinard<br>"
+          text: "Pinard"
         },
         {
           me: false,
-          text: "Rouge ou blanc?<br>"},
+          text: "Rouge ou blanc?"},
         {
           me: true,
           text: "Choose bitch"
         },
         {
           me: false,
-          text: "Ah la relou! <br>C’est fait 😘<br>"},
+          text: "Ah la relou! <br>C’est fait 😘"},
         {
           me: true,
           text: "😛<br>  Je vais pas tarder<br>  À partir"
         },
         {
           me: false,
-          text: "Hâte de voir (oui oui)<br>"},
+          text: "Hâte de voir (oui oui)"},
         {
           me: true,
           text: "Oh yeah <br>  Ton texto de sécurité"
         },
         {
           me: false,
-          text: "Héhé ;)<br><br>"},
+          text: "Héhé ;)<br>"},
         {
           me: true,
           text: "Oui oui je me suis battue"
         },
         {
           me: false,
-          text: "Mais nan!!!$<br>"},
+          text: "Mais nan!!!$"},
         {
           me: true,
-          text: "J’ai defoncé trois personnes <br>  Mais naaaahhhh 😛<br>"
+          text: "J’ai defoncé trois personnes <br>  Mais naaaahhhh 😛"
         },
         {
           me: false,
-          text: "😶<br>  🙃<br>"},
+          text: "😶<br>  🙃"},
       ],
 
       [
         {
           me: true,
-          text: "Dès kiss kiss la biche <br>  Et une bonne nuit <br>  À penser à moi Jajaja<br>"
+          text: "Dès kiss kiss la biche <br>  Et une bonne nuit <br>  À penser à moi Jajaja"
         },
         {
           me: false,
-          text: "🙈<br>Bonne Nuit C! <br>😘<br><br>Défonce tout demain et moi je méditerai<br>"},
+          text: "🙈<br>Bonne Nuit C! <br>😘<br><br>Défonce tout demain et moi je méditerai"},
         {
           me: true,
           text: "Sûre 💩<br>  😘<br>  Jajaja le 💩<br>  Lapsus emoji<br>  Donc sur, tu dors pas avec moi ?<br>  Mince alors <br>  Bon bon j’arrête <br>  Tentation"
         },
         {
           me: false,
-          text: "Ho!!! <br>😅😂<br>Si tu insistes je débarque 🤪<br>"},
+          text: "Ho!!! <br>😅😂<br>Si tu insistes je débarque 🤪"},
         {
           me: true,
           text: "Que d’envie <br>  Et d’hésitation"
         },
         {
           me: false,
-          text: "La partie d’échec a commencé ...<br>  Non <br>Ne craquons pas ;)<br>"},
+          text: "La partie d’échec a commencé ...<br>  Non <br>Ne craquons pas ;)"},
         {
           me: true,
           text: "Ah mais t’es plutôt sage la cigale"
         },
         {
           me: false,
-          text: "Ahahah <br>Toi aussi tu aimes bien retourner les situations! 🤓<br>"},
+          text: "Ahahah <br>Toi aussi tu aimes bien retourner les situations! 🤓"},
         {
           me: true,
           text: "😘<br>  Bonne nuit D"
@@ -1434,18 +1434,18 @@ var blocks = [
       [
         {
           me: true,
-          text: "Hey!<br>Pas beaucoup dormi hier soir,<br>Les baisers langoureux et autres sexy feet m’ont hypnotisé 😮<br>Je me dit aussi que c’était une bonne idée de ne pas se réveillé à l’arrache pour notre première soirée ensemble ;)<br><br>😘<br>"
+          text: "Hey!<br>Pas beaucoup dormi hier soir,<br>Les baisers langoureux et autres sexy feet m’ont hypnotisé 😮<br>Je me dit aussi que c’était une bonne idée de ne pas se réveillé à l’arrache pour notre première soirée ensemble ;)<br><br>😘"
         },
         {
           me: true,
-          text: "J’ai pas dormi 🤣🤓😤<br>"
+          text: "J’ai pas dormi 🤣🤓😤"
         },
         {
           me: false,
-          text: "Toi non plus?! <br>Bah alors bichette?<br>"},
+          text: "Toi non plus?! <br>Bah alors bichette?"},
         {
           me: true,
-          text: "😘<br>  Et doneeeee<br>  Fucking holidayyyys<br>"
+          text: "😘<br>  Et doneeeee<br>  Fucking holidayyyys"
         },
       ],
 
@@ -1455,63 +1455,63 @@ var blocks = [
           text: "Nickel <br>  Comment tu vas bichette?!"},
         {
           me: true,
-          text: "Oh yeahhh<br>  Et toi ?<br>"
+          text: "Oh yeahhh<br>  Et toi ?"
         },
         {
           me: false,
-          text: "Oh yeah! <br>;) <br>Ça bosse le Magic ;) <br>  Je pense à tes pieds 🙈<br>"},
+          text: "Oh yeah! <br>;) <br>Ça bosse le Magic ;) <br>  Je pense à tes pieds 🙈"},
         {
           me: true,
           text: "😂<br>  Omg<br>  Well Well <br>  Beaucoup de social<br>  La je picole avec mes voisins <br>  Petite pause clope<br>  Les vacances"
         },
         {
           me: false,
-          text: "Nice!<br>Nous on joue avec B et on matte un match de foot!<br>Je Cuisine un curry vert et je regrette que mon pote ne soit pas si aventureuse que toi pour grignoter des vers à l’apéro! 😂<br>  Les vacances!<br>Tu me fais rêver bichette 😘<br>"},
+          text: "Nice!<br>Nous on joue avec B et on matte un match de foot!<br>Je Cuisine un curry vert et je regrette que mon pote ne soit pas si aventureuse que toi pour grignoter des vers à l’apéro! 😂<br>  Les vacances!<br>Tu me fais rêver bichette 😘"},
         {
           me: true,
-          text: "Leaving the dreaaaaam<br>"
+          text: "Leaving the dreaaaaam"
         },
         {
           me: false,
-          text: "You are! <br>🎶Take me with you 🎶<br>"},
+          text: "You are! <br>🎶Take me with you 🎶"},
         {
           me: true,
           text: "Moucha gaga<br>  Et je file dormir"
         },
         {
           me: false,
-          text: "Ahahaha <br><br>Il est tôt papillon?! ;) <br><br>Mais on ne va pas trop tarder non plus mais j’ai encore des « vrais » devoir à faire 😅<br><br>Bonne nuit bichette 😘<br>"},
+          text: "Ahahaha <br><br>Il est tôt papillon?! ;) <br><br>Mais on ne va pas trop tarder non plus mais j’ai encore des « vrais » devoir à faire 😅<br><br>Bonne nuit bichette 😘"},
         {
           me: true,
-          text: "Ouiiiii<br>  J’ai trop bu<br>"
+          text: "Ouiiiii<br>  J’ai trop bu"
         },
         {
           me: false,
-          text: "Ah bon?! 😅🙈🥃<br>Repose toi ;) <br>Et de l’eau ;) 😘<br>"},
+          text: "Ah bon?! 😅🙈🥃<br>Repose toi ;) <br>Et de l’eau ;) 😘"},
         {
           me: true,
-          text: "Yes yes <br>  I know <br>  Water is good <br>  I like it<br>  Its good matérialiste<br>  Matériel <br>  Its soft<br>"
+          text: "Yes yes <br>  I know <br>  Water is good <br>  I like it<br>  Its good matérialiste<br>  Matériel <br>  Its soft"
         },
         {
           me: false,
-          text: "Ahahaha <br>Are you drink honey bun? 😅<br>"},
+          text: "Ahahaha <br>Are you drink honey bun? 😅"},
         {
           me: true,
-          text: "If I’m drunk?<br>  Euhhhh a bit <br>  You?<br>"
+          text: "If I’m drunk?<br>  Euhhhh a bit <br>  You?"
         },
         {
           me: false,
           text: "Nah!<br>Just one glass of wine <br>Bruno doesn’t drink "},
         {
           me: true,
-          text: "Oubhhhh<br>  Ok<br>  Serious<br>"
+          text: "Oubhhhh<br>  Ok<br>  Serious"
         },
         {
           me: false,
-          text: "As he’s always said <br>« He doesn’t like it » 😂😂😂😂<br>"},
+          text: "As he’s always said <br>« He doesn’t like it » 😂😂😂😂"},
         {
           me: true,
-          text: "Well<br>  That’s an hard point<br>"
+          text: "Well<br>  That’s an hard point"
         },
         {
           me: false,
@@ -1522,13 +1522,13 @@ var blocks = [
         },
         {
           me: false,
-          text: "Yeah! <br>Have some good sleep! 😘<br>"},
+          text: "Yeah! <br>Have some good sleep! 😘"},
       ],
 
       [
                 {
           me: false,
-          text: "Yep! <br>Je bosse de chez moi mais je m’arrête QUAND TU VEUX 😅😂<br>  .... tu n’avais pas un apéro after work #assistant<br>#alabonnememoire<br>#pourartsiteenvacance<br><br>🙃<br>"},
+          text: "Yep! <br>Je bosse de chez moi mais je m’arrête QUAND TU VEUX 😅😂<br>  .... tu n’avais pas un apéro after work #assistant<br>#alabonnememoire<br>#pourartsiteenvacance<br><br>🙃"},
         {
           me: true,
           text: "Elles viennent d’annuler <br>  La je vais prendre un brief <br>  Je te dis quand j’ai fini"
@@ -1538,21 +1538,21 @@ var blocks = [
           text: "Nickel! 😘<br><br>Bon brief!"},
         {
           me: true,
-          text: "Je suis rentrée <br>  Oh yeah<br>"
+          text: "Je suis rentrée <br>  Oh yeah"
         },
         {
           me: false,
           text: "Hey! <br><br>  Sounds good to hear"},
         {
           me: true,
-          text: "Are you ready ?<br>"
+          text: "Are you ready ?"
         },
         {
           me: false,
-          text: "Petite douche et je suis à toi!<br>On fait quoi? 🤓<br>"},
+          text: "Petite douche et je suis à toi!<br>On fait quoi? 🤓"},
         {
           me: true,
-          text: "I don’t know <br>  Let’s see <br>  Euhhh<br>"
+          text: "I don’t know <br>  Let’s see <br>  Euhhh"
         },
         {
           me: false,
@@ -1581,18 +1581,18 @@ var blocks = [
           text: "Ben je peux t’accompagner si tu veux ou va à la bibliothèque avant <br>Comme tu préfères"},
         {
           me: true,
-          text: "En premier <br>  Je fais ma vaisselle <br>  😂<br>"
+          text: "En premier <br>  Je fais ma vaisselle <br>  😂"
         },
         {
           me: false,
           text: "Lave tes 2 cuillères 😂<br>  Tes cuillères sont propres!<br>J’arrive 😘<br>  Termine <br>J’arrive"},
         {
           me: true,
-          text: "😂<br>"
+          text: "😂"
         },
         {
           me: false,
-          text: "Non?! 😂🙈<br>"},
+          text: "Non?! 😂🙈"},
         {
           me: true,
           text: "?<br>  Le devis le plus rapide de l’humanité"
@@ -1603,17 +1603,17 @@ var blocks = [
 
         {
           me: false,
-          text: "Cool 😘<br>"},
+          text: "Cool 😘"},
       ],
 
       [
         {
           me: true,
-          text: "Okeeeeee<br>  I’m ready<br>  C’est où ?<br>"
+          text: "Okeeeeee<br>  I’m ready<br>  C’est où ?"
         },
         {
           me: false,
-          text: "C’est au zero - zero <br>  Rue Amelot <br><br>  On arrive la <br>  😘<br>"},
+          text: "C’est au zero - zero <br>  Rue Amelot <br><br>  On arrive la <br>  😘"},
         {
           me: true,
           text: "Okeeee <br>  I’m in fire <br>  Coming"
@@ -1627,31 +1627,31 @@ var blocks = [
         },
         {
           me: true,
-          text: "Hey<br>  Deso je réponds tard<br>  Je vais passer du temps avec mes copines ce soir<br>"
+          text: "Hey<br>  Deso je réponds tard<br>  Je vais passer du temps avec mes copines ce soir"
         },
         {
           me: false,
           text: "Non c’est cool <br>Je suis content de te lire en faites <br>  Ok cool <br>Pas de soucis <br>  Je peux t’appeler <br>2 min?"},
         {
           me: true,
-          text: "Plus tard 😘<br>"
+          text: "Plus tard 😘"
         },
         {
           me: false,
-          text: "Ca marche <br>Prend soin de toi <br>  Bisous <br>D<br>"},
+          text: "Ca marche <br>Prend soin de toi <br>  Bisous <br>D"},
       ],
 
       [
         {
           me: true,
-          text: "Hey 🙃<br>  On va prendre un café tout à l’heure ?<br>"
+          text: "Hey 🙃<br>  On va prendre un café tout à l’heure ?"
         },
         {
           me: false,
-          text: "Yello!<br>Carrément <br>Après 16h je te dis où j’en suis?<br>Je vois déjà qqun déjà.<br>"},
+          text: "Yello!<br>Carrément <br>Après 16h je te dis où j’en suis?<br>Je vois déjà qqun déjà."},
         {
           me: true,
-          text: "Ok je suis dans le 13 je vais pas tarder à revenir dans le 11<br>"
+          text: "Ok je suis dans le 13 je vais pas tarder à revenir dans le 11"
         },
         {
           me: false,
@@ -1662,34 +1662,34 @@ var blocks = [
         },
         {
           me: false,
-          text: "👍🏽<br>"},
+          text: "👍🏽"},
       ],
 
       [
         {
           me: true,
-          text: "😘<br>  Bonne nuit D !<br>  I’m fucking dead 🙃<br>"
+          text: "😘<br>  Bonne nuit D !<br>  I’m fucking dead 🙃"
         },
         {
           me: false,
-          text: "Moi je suis en extase <br>Un sentiment de bien être fou!<br><br>Bonne route à toi <br>Je vais rejoindre mon lit <br>I’ll be thinking about you quite a bit 🤓😘<br>"},
+          text: "Moi je suis en extase <br>Un sentiment de bien être fou!<br><br>Bonne route à toi <br>Je vais rejoindre mon lit <br>I’ll be thinking about you quite a bit 🤓😘"},
         {
           me: true,
-          text: "Pfiouuuu<br>  C’est bien réel tout ça ?<br>  Looks like a dream<br>"
+          text: "Pfiouuuu<br>  C’est bien réel tout ça ?<br>  Looks like a dream"
         },
         {
           me: false,
-          text: "Ben oui! <br>Réel réel réel <br>Tu es bien réelle <br>🥰<br>"},
+          text: "Ben oui! <br>Réel réel réel <br>Tu es bien réelle <br>🥰"},
         {
           me: true,
-          text: "Living it<br>  💙<br>"
+          text: "Living it<br>  💙"
         },
         {
           me: false,
           text: "Indeed ;)<br>  J’ai ton odeur sur moi <br>J’adore!!!"},
         {
           me: true,
-          text: "Fort<br>"
+          text: "Fort"
         },
         {
           me: false,
@@ -1703,11 +1703,11 @@ var blocks = [
           text: "Juste vrai"},
         {
           me: true,
-          text: "Grand<br>  Bon allez je te laisse dormir <br>  😂😛💙🔥<br>"
+          text: "Grand<br>  Bon allez je te laisse dormir <br>  😂😛💙🔥"
         },
         {
           me: false,
-          text: "Hehe <br>Je garde mon tel près moi 😘<br>"},
+          text: "Hehe <br>Je garde mon tel près moi 😘"},
         {
           me: true,
           text: "On discute demain, je veux pas te réveiller<br>  Que tu sois en pleine forme"
@@ -1732,59 +1732,59 @@ var blocks = [
         },
         {
           me: false,
-          text: "Mais les vacances <br>C’est sexy quand même hein! 😂😘😬🙃<br>  Dis moi que t’es en caleçon 🙈<br>#fautquejebosse 😅<br>"},
+          text: "Mais les vacances <br>C’est sexy quand même hein! 😂😘😬🙃<br>  Dis moi que t’es en caleçon 🙈<br>#fautquejebosse 😅"},
         {
           me: true,
-          text: "💙<br>"
+          text: "💙"
         },
         {
           me: false,
-          text: "Can I call you later?<br>"},
+          text: "Can I call you later?"},
         {
           me: true,
-          text: "Yes sûre <br>  Kiss kiss<br>"
+          text: "Yes sûre <br>  Kiss kiss"
         },
       ],
 
       [
         {
           me: false,
-          text: "Ta voix 😱...<br>C’est chaud quand même <br>Je vais être déconcentré 🙈🙃<br>  Tu dors?<br>"},
+          text: "Ta voix 😱...<br>C’est chaud quand même <br>Je vais être déconcentré 🙈🙃<br>  Tu dors?"},
         {
           me: true,
-          text: "J’ai fait une bonne sieste <br>  🙃<br>  Et toi, Morphée?<br>  💙<br>"
+          text: "J’ai fait une bonne sieste <br>  🙃<br>  Et toi, Morphée?<br>  💙"
         },
         {
           me: false,
-          text: "Il est tôt <br>Et j’espère ne pas te réveiller <br>My last minute class prep a eu raison de moi hier soir 😶... Je suis prêt <br>Hope you are feeling better 😘<br>"},
+          text: "Il est tôt <br>Et j’espère ne pas te réveiller <br>My last minute class prep a eu raison de moi hier soir 😶... Je suis prêt <br>Hope you are feeling better 😘"},
         {
           me: true,
-          text: "Hey yo 🙃<br>"
+          text: "Hey yo 🙃"
         },
         {
           me: false,
-          text: "Hello!<br>Je termine mon cours là <br>On se bipe dans 5-10min?<br>"},
+          text: "Hello!<br>Je termine mon cours là <br>On se bipe dans 5-10min?"},
         {
           me: true,
           text: "Oulalala sexy"
         },
         {
           me: false,
-          text: "😂<br>"},
+          text: "😂"},
         {
           me: true,
-          text: "Et bim antibiotiques 😂<br>"
+          text: "Et bim antibiotiques 😂"
         },
         {
           me: false,
-          text: "Mais nan! 😱<br>"},
+          text: "Mais nan! 😱"},
         {
           me: true,
           text: "Mon dieu, j’ai jamais été aussi malade que pendant ces vacances"
         },
         {
           me: false,
-          text: "😫<br>"},
+          text: "😫"},
         {
           me: true,
           text: "Bon mec"
@@ -1805,7 +1805,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "Ça marche!<br>  Mais on peux jouer aux échecs hein! <br>  🙈<br>"},
+          text: "Ça marche!<br>  Mais on peux jouer aux échecs hein! <br>  🙈"},
         {
           me: true,
           text: "Sinon on va créer un Moebius <br>  De bactéries"
@@ -1819,14 +1819,14 @@ var blocks = [
         },
         {
           me: false,
-          text: "Nice!<br>Cool!<br><br>  (Ouh la richesse de mon dernier message) 😅<br>  👌🏽<br>"},
+          text: "Nice!<br>Cool!<br><br>  (Ouh la richesse de mon dernier message) 😅<br>  👌🏽"},
         {
           me: true,
           text: "Tellement"
         },
         {
           me: false,
-          text: "🤷🏽‍♂️<br>Mais tu me perturbes tellement (justement) <br>  🙃<br>"},
+          text: "🤷🏽‍♂️<br>Mais tu me perturbes tellement (justement) <br>  🙃"},
         {
           me: true,
           text: "Ohhhh<br>  C’est Don Juan ou calimero <br>  😘<br>  J’hésite"
@@ -1840,17 +1840,17 @@ var blocks = [
         },
         {
           me: false,
-          text: "Ça marche!<br>J’arrive à l’école moi. <br><br>  Je fais te laisser bosser babe <br><br>  Kiss kiss (digital hein!)<br>"},
+          text: "Ça marche!<br>J’arrive à l’école moi. <br><br>  Je fais te laisser bosser babe <br><br>  Kiss kiss (digital hein!)"},
         {
           me: true,
           text: "😘<br>  La bibliothécaire qui pense que ça s’écrit : camassoutra"
         },
         {
           me: false,
-          text: "😂😂😂😂😂😂😂😂<br>"},
+          text: "😂😂😂😂😂😂😂😂"},
         {
           me: true,
-          text: "Oh putain 😂<br>"
+          text: "Oh putain 😂"
         },
         {
           me: false,
@@ -1861,59 +1861,59 @@ var blocks = [
         },
         {
           me: false,
-          text: "Je sors de mon cours d’anglais <br>Maintenant réunion ;)<br>Alors le camassoutra ça ce mange chaud ou froid? 😂<br>"},
+          text: "Je sors de mon cours d’anglais <br>Maintenant réunion ;)<br>Alors le camassoutra ça ce mange chaud ou froid? 😂"},
         {
           me: true,
-          text: "Cru <br>  Ou en sauce ?<br>"
+          text: "Cru <br>  Ou en sauce ?"
         },
         {
           me: false,
           text: "Eurk!!!!! 😂<br>  Ca y est j’ai fini!"},
         {
           me: true,
-          text: "Ah oui ! <br>  Mais c’est tôt<br>  Je vais manger ici <br>  Et pas tarder à rentrer <br>  Mais je suis malade la biche <br>  T’es sur tu veux checker mes microbes ?<br>"
+          text: "Ah oui ! <br>  Mais c’est tôt<br>  Je vais manger ici <br>  Et pas tarder à rentrer <br>  Mais je suis malade la biche <br>  T’es sur tu veux checker mes microbes ?"
         },
         {
           me: false,
-          text: "Ahaha <br>Je te disais juste que j’ai terminé ;)<br>Prend ton temps et on s’appelle un peu plus tard. <br>Rétablis toi! C’est le plus important pour faire des trucs plus fun plus tard 😘<br>"},
+          text: "Ahaha <br>Je te disais juste que j’ai terminé ;)<br>Prend ton temps et on s’appelle un peu plus tard. <br>Rétablis toi! C’est le plus important pour faire des trucs plus fun plus tard 😘"},
         {
           me: true,
           text: "Est ce que je te met une fessee aux échecs avec de la fièvre ? <br>  Bah tfacon la je suis inutile ici"
         },
         {
           me: false,
-          text: "Ouh ... exciting <br>  Échec et fièvre <br>  Si tu me bats c’est chaud! <br>  Comme tu veux <br>En tout cas je peux m’occuper un peu de toi <br>Faire un grog et te border <br>  Meme te raconter une histoire 🤓<br>"},
+          text: "Ouh ... exciting <br>  Échec et fièvre <br>  Si tu me bats c’est chaud! <br>  Comme tu veux <br>En tout cas je peux m’occuper un peu de toi <br>Faire un grog et te border <br>  Meme te raconter une histoire 🤓"},
         {
           me: true,
           text: "So sexy<br>  Blowing my mind"
         },
         {
           me: false,
-          text: "Mais plus sérieusement <br>Ton bien être avant tout <br>Et si ça passe par patienter avant de voir <br>C’est ok 😘<br>"},
+          text: "Mais plus sérieusement <br>Ton bien être avant tout <br>Et si ça passe par patienter avant de voir <br>C’est ok 😘"},
         {
           me: true,
-          text: "Si tu joues au docteur moi je suis oulalala<br>  Fieveeeeer<br>"
+          text: "Si tu joues au docteur moi je suis oulalala<br>  Fieveeeeer"
         },
         {
           me: false,
-          text: "Ahahaha <br>Tu es là patiente parfaite 😅<br>"},
+          text: "Ahahaha <br>Tu es là patiente parfaite 😅"},
         {
           me: true,
-          text: "J’ai chaud<br>"
+          text: "J’ai chaud"
         },
         {
           me: false,
-          text: "Moi je suis vers chez moi dans une heure (le temps de marcher)<br>On se Check après?<br>  Moi aussi j’ai chaud <br>  🙈<br>"},
+          text: "Moi je suis vers chez moi dans une heure (le temps de marcher)<br>On se Check après?<br>  Moi aussi j’ai chaud <br>  🙈"},
         {
           me: true,
-          text: "😛<br>"
+          text: "😛"
         },
       ],
 
       [
         {
           me: true,
-          text: "You look so sexy<br>  You really turn me on<br>"
+          text: "You look so sexy<br>  You really turn me on"
         },
         {
           me: false,
@@ -1924,7 +1924,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "Oui oui 👍🏽 🙃<br>"},
+          text: "Oui oui 👍🏽 🙃"},
       ],
 
       [
@@ -1943,7 +1943,7 @@ var blocks = [
       [
         {
           me: true,
-          text: "Mais pourquoi on fait pas l’amour toute la nuit ?<br>"
+          text: "Mais pourquoi on fait pas l’amour toute la nuit ?"
         },
         {
           me: false,
@@ -1961,7 +1961,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "Ya!<br>"},
+          text: "Ya!"},
         {
           me: true,
           text: "Guten nacht"
@@ -1982,7 +1982,7 @@ var blocks = [
       [
         {
           me: false,
-          text: "😘<br>"},
+          text: "😘"},
         {
           me: true,
           text: "Donne-moi 5 ans le temps de réussir à vendre des néons à 500 000 €"
@@ -2014,14 +2014,14 @@ var blocks = [
         },
         {
           me: false,
-          text: "Oui!<br>J’adore!<br>(Mais c’est une classe ... difficile)<br>Mais je gère! <br>  La tout de suite <br>Je voudrai être avec toi 😘<br>"},
+          text: "Oui!<br>J’adore!<br>(Mais c’est une classe ... difficile)<br>Mais je gère! <br>  La tout de suite <br>Je voudrai être avec toi 😘"},
         {
           me: true,
           text: "Ah bah là je fais la sieste 😛<br>  Kiss kiss beauté"
         },
         {
           me: false,
-          text: "Han! <br>Bon dodo Bella!<br>  Alors tu gagnes? Et t’évites les Dada?<br>"},
+          text: "Han! <br>Bon dodo Bella!<br>  Alors tu gagnes? Et t’évites les Dada?"},
         {
           me: true,
           text: "Oh yeah <br>  J’avais pas vu <br>  On est au baggamon<br>  Elle me defonce"
@@ -2031,14 +2031,14 @@ var blocks = [
       [
         {
           me: true,
-          text: "Hey <br>  Salut beauté<br>"
+          text: "Hey <br>  Salut beauté"
         },
         {
           me: false,
-          text: "Hello!<br>Ca va?!<br>Je suis en atelier <br>Je te reprends tout de suite 😘<br>Ils sont trop touchants.<br>J’ai le cœur serré <br>C’est dur <br>  Je termine à 18h <br>Le temps de ranger <br>Ça va toi?<br>"},
+          text: "Hello!<br>Ca va?!<br>Je suis en atelier <br>Je te reprends tout de suite 😘<br>Ils sont trop touchants.<br>J’ai le cœur serré <br>C’est dur <br>  Je termine à 18h <br>Le temps de ranger <br>Ça va toi?"},
         {
           me: true,
-          text: "Ohhhhh<br>  Bichette <br>  Oh bah réveil petit dej<br>"
+          text: "Ohhhhh<br>  Bichette <br>  Oh bah réveil petit dej"
         },
         {
           me: false,
@@ -2055,7 +2055,7 @@ var blocks = [
       [
         {
           me: false,
-          text: "Hello! <br>  Je parlais de toi! 😅😱<br>"},
+          text: "Hello! <br>  Je parlais de toi! 😅😱"},
         {
           me: true,
           text: "Télépathie <br>  T’es en plein rdv non ?"
@@ -2069,37 +2069,37 @@ var blocks = [
         },
         {
           me: false,
-          text: "Mmmh <br>  Tu me les raconteras?! 😘<br>"},
+          text: "Mmmh <br>  Tu me les raconteras?! 😘"},
         {
           me: true,
-          text: "💙<br>"
+          text: "💙"
         },
         {
           me: false,
-          text: "A tout à l’heure Bella <br>😘<br>Je pense à toi,<br><br>"},
+          text: "A tout à l’heure Bella <br>😘<br>Je pense à toi,<br>"},
       ],
 
       [
         {
           me: false,
-          text: "Cool! <br>Fais ça! <br>  Tu peux aussi passer faire un bisous si tu veux<br>On est en train de builder Des jeu à Magic <br>  Mais après c’est cool 🤓<br>"},
+          text: "Cool! <br>Fais ça! <br>  Tu peux aussi passer faire un bisous si tu veux<br>On est en train de builder Des jeu à Magic <br>  Mais après c’est cool 🤓"},
         {
           me: true,
-          text: "Impatient 😛<br>"
+          text: "Impatient 😛"
         },
         {
           me: false,
-          text: "😬<br>Viens après ;)<br>"},
+          text: "😬<br>Viens après ;)"},
         {
           me: true,
           text: "La je suis en mode sport douche lecture"
         },
         {
           me: false,
-          text: "Parfait <br>Nous c’est Magic Magic Magic foot en fond 😂🤓<br>Roh les beaufs <br>  Ou viens après Ahahaha<br>"},
+          text: "Parfait <br>Nous c’est Magic Magic Magic foot en fond 😂🤓<br>Roh les beaufs <br>  Ou viens après Ahahaha"},
         {
           me: true,
-          text: "Oui oui je viens après le bal 😘<br>"
+          text: "Oui oui je viens après le bal 😘"
         },
         {
           me: false,
@@ -2113,7 +2113,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "Coucou à Kat (de Bruno) <br><br>  Allez je te laisse faire du sport 😘<br>"},
+          text: "Coucou à Kat (de Bruno) <br><br>  Allez je te laisse faire du sport 😘"},
         {
           me: true,
           text: "Et demain soir<br>  Tu veux venir avec moi au truc de danse Turk ?<br>  Si B veut venir aussi"
@@ -2134,10 +2134,10 @@ var blocks = [
       [
          {
           me: false,
-          text: "Ca va bébé ? <br>  😘<br>  Je vais faire ma pause clope <br>Tu es joignable? <br>  Je vais me coucher 😘<br>Bonne nuit trésor <br>(Trésor / bébé / chaton / Bella / .... faut que je trouve le bon! 😅😂)<br>"},
+          text: "Ca va bébé ? <br>  😘<br>  Je vais faire ma pause clope <br>Tu es joignable? <br>  Je vais me coucher 😘<br>Bonne nuit trésor <br>(Trésor / bébé / chaton / Bella / .... faut que je trouve le bon! 😅😂)"},
         {
           me: true,
-          text: "🍓<br>"
+          text: "🍓"
         },
       ],
 
@@ -2147,28 +2147,28 @@ var blocks = [
           text: "Hello! <br>Comment tu vas? <br>Mieux? <br><br>Journée de travail presque derrière moi pour retrouver mes copains « magicien » <br>Je pense à toi, à ta mèche folle, à tes fossettes perturbantes, ton sourire fracassant, ta voix rassurante, ton intelligence débordante..... expiration <br><br>😘"},
         {
           me: true,
-          text: "🍑<br>"
+          text: "🍑"
         },
         {
           me: false,
-          text: "Mais .... <br>Mais c’est ton cul! <br><br>Grrrrrh! 😂🤗<br>"},
+          text: "Mais .... <br>Mais c’est ton cul! <br><br>Grrrrrh! 😂🤗"},
         {
           me: true,
-          text: "😂<br>"
+          text: "😂"
         },
         {
           me: false,
           text: "Jai 10% et je suis le métro <br>Si je ne réponds plus à tes emoticon cochon c’est pas moi! 😂😘<br>  Mais dans un gros quart d’heure je mets mon tél en charge"},
         {
           me: true,
-          text: "👍<br>  👈👌?<br>"
+          text: "👍<br>  👈👌?"
         },
         {
           me: false,
-          text: "😂🤷🏽‍♂️<br>  🤪<br>  💋🍆🌶🌶<br>"},
+          text: "😂🤷🏽‍♂️<br>  🤪<br>  💋🍆🌶🌶"},
         {
           me: true,
-          text: "🤚🔥☺️<br>"
+          text: "🤚🔥☺️"
         },
         {
           me: false,
@@ -2178,69 +2178,69 @@ var blocks = [
       [
         {
           me: false,
-          text: "☺️<br>"},
+          text: "☺️"},
         {
           me: true,
-          text: "💙<br>"
+          text: "💙"
         },
         {
           me: false,
-          text: "🌶<br>"},
+          text: "🌶"},
         {
           me: true,
-          text: "🍆<br>"
+          text: "🍆"
         },
         {
           me: false,
-          text: "😂<br>  It’s hard ... oh yeah!<br>"},
+          text: "😂<br>  It’s hard ... oh yeah!"},
         {
           me: true,
-          text: "🤚<br>  🔥<br>"
+          text: "🤚<br>  🔥"
         },
         {
           me: false,
-          text: "🙈<br>"},
+          text: "🙈"},
         {
           me: true,
-          text: "😛<br>"
+          text: "😛"
         },
         {
           me: false,
-          text: "🎉🎉🎉<br>"},
+          text: "🎉🎉🎉"},
         {
           me: true,
-          text: "🍓<br>"
+          text: "🍓"
         },
         {
           me: false,
-          text: "😶<br>  🤟🏼<br>  🍆<br>  🎉<br>"},
+          text: "😶<br>  🤟🏼<br>  🍆<br>  🎉"},
         {
           me: true,
-          text: "🍾<br>"
+          text: "🍾"
         },
         {
           me: false,
-          text: "🐷🐷<br>"},
+          text: "🐷🐷"},
       ],
 
       [
         {
           me: false,
-          text: "🙈<br>Allez <br>Je te fais confiance <br>😬<br>"},
+          text: "🙈<br>Allez <br>Je te fais confiance <br>😬"},
         {
           me: true,
-          text: "🙃 come onnnnn<br>"
+          text: "🙃 come onnnnn"
         },
         {
           me: false,
-          text: "JE TE FAIS CONFIANCE 🤓<br>"},
+          text: "JE TE FAIS CONFIANCE 🤓"},
         {
           me: true,
-          text: "💙<br>"
+          text: "💙"
         },
         {
           me: false,
-          text: "🖤<br>"},
+          text: "🖤"},
         {
           me: true,
           text: "Dark"
@@ -2250,11 +2250,11 @@ var blocks = [
           text: "Like your chess color ;)<br>  #reference hehe"},
         {
           me: true,
-          text: "Like your <br>  Putain je sais plus écrire âme en anglais <br>  Soal <br>  Sole<br>"
+          text: "Like your <br>  Putain je sais plus écrire âme en anglais <br>  Soal <br>  Sole"
         },
         {
           me: false,
-          text: "Soul <br>  😘<br>"},
+          text: "Soul <br>  😘"},
         {
           me: true,
           text: "Aaaaah <br>  😂<br>  Nieh"
@@ -2264,25 +2264,25 @@ var blocks = [
           text: "It’s ok teach me Spanish"},
         {
           me: true,
-          text: "Me llamo Didier<br>  Y me gusta la concha<br>"
+          text: "Me llamo Didier<br>  Y me gusta la concha"
         },
         {
           me: false,
-          text: "Que por favor puedes ser seriosa 😂<br>"},
+          text: "Que por favor puedes ser seriosa 😂"},
         {
           me: true,
-          text: "Nope<br>"
+          text: "Nope"
         },
         {
           me: false,
-          text: "On the phone with la mama <br>  Qui me demande si tout va bien, parce que je mange de la truffe en solo 😂<br>"},
+          text: "On the phone with la mama <br>  Qui me demande si tout va bien, parce que je mange de la truffe en solo 😂"},
         {
           me: true,
-          text: "So your mom stalk your insta 😂<br>"
+          text: "So your mom stalk your insta 😂"
         },
         {
           me: false,
-          text: "Hell yeah! 😂<br>  Back to class <br>😘😘<br>"},
+          text: "Hell yeah! 😂<br>  Back to class <br>😘😘"},
       ],
 
       [
@@ -2292,21 +2292,21 @@ var blocks = [
         },
         {
           me: false,
-          text: "Ca marche <br>Merci de me prévenir (j’apprécie...vraiment 😘)<br>"},
+          text: "Ca marche <br>Merci de me prévenir (j’apprécie...vraiment 😘)"},
         {
           me: true,
           text: "Je vais déconnecter petit à petit <br>  Histoire de reposer le mental"
         },
         {
           me: false,
-          text: "Ok ok <br>Ben simple tu me contactes si nécessaire 😘<br>"},
+          text: "Ok ok <br>Ben simple tu me contactes si nécessaire 😘"},
         {
           me: true,
-          text: "Et on se voit jeudi<br>"
+          text: "Et on se voit jeudi"
         },
         {
           me: false,
-          text: "Oui parfait! 😘<br>"},
+          text: "Oui parfait! 😘"},
         {
           me: true,
           text: "Bonne nuit D <br>  Tu me manques déjà"
@@ -2319,21 +2319,21 @@ var blocks = [
       [
         {
           me: true,
-          text: "Well <br>  Sweet dream<br>  Little boy<br>"
+          text: "Well <br>  Sweet dream<br>  Little boy"
         },
         {
           me: false,
-          text: "🖤<br>"},
+          text: "🖤"},
         {
           me: true,
-          text: "I will kiss <br>  This lips <br>  Tomorrow<br>"
+          text: "I will kiss <br>  This lips <br>  Tomorrow"
         },
         {
           me: false,
-          text: "Please do!<br>They want yours too <br>💋<br>"},
+          text: "Please do!<br>They want yours too <br>💋"},
         {
           me: true,
-          text: "💙<br>"
+          text: "💙"
         },
       ],
 
@@ -2354,7 +2354,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "Han!!! <br><br>"},
+          text: "Han!!! <br>"},
         {
           me: true,
           text: "Donc bon"
@@ -2368,53 +2368,53 @@ var blocks = [
         },
         {
           me: false,
-          text: "Oh! <br>Mais comme tu veux <br>Tu m’a dit demain ;) j’ai pas oublié<br>  Tu m’as^<br>  Comme tu veux <br>Je veux bien t’apporter à manger si te le souhaites <br>Je te fais un câlin et je m’en vais<br>"},
+          text: "Oh! <br>Mais comme tu veux <br>Tu m’a dit demain ;) j’ai pas oublié<br>  Tu m’as^<br>  Comme tu veux <br>Je veux bien t’apporter à manger si te le souhaites <br>Je te fais un câlin et je m’en vais"},
         {
           me: true,
           text: "Nan c’est bon"
         },
         {
           me: false,
-          text: "Ça marche 🖤<br>"},
+          text: "Ça marche 🖤"},
         {
           me: true,
           text: "C’était juste pour papoter"
         },
         {
           me: false,
-          text: "Et c’est très cool!<br>Je te remercie <br>C’était au bon moment 😘<br>  Je retourne bosser! <br>Prends soin de toi <br>🖤<br>"},
+          text: "Et c’est très cool!<br>Je te remercie <br>C’était au bon moment 😘<br>  Je retourne bosser! <br>Prends soin de toi <br>🖤"},
         {
           me: true,
           text: "Yes <br>  Kiss kiss"
         },
         {
           me: false,
-          text: "😘<br>"},
+          text: "😘"},
       ],
 
 
       [
         {
           me: true,
-          text: "Ça fait pas genre deux semaines que je t’ai pas vu tout nu ?<br>"
+          text: "Ça fait pas genre deux semaines que je t’ai pas vu tout nu ?"
         },
         {
           me: false,
-          text: "Ahahaha <br>  Le week-end dernier <br>Mais ça fait long oui <br>  J’ai du me masturber genre 2/3 fois par jour depuis mardi soir 🙈<br>"},
+          text: "Ahahaha <br>  Le week-end dernier <br>Mais ça fait long oui <br>  J’ai du me masturber genre 2/3 fois par jour depuis mardi soir 🙈"},
         {
           me: true,
           text: "Moi zéro nada <br>  J’ai oublié <br>  Qu’on pouvait faire ça <br>  Et je crache toute les trois minutes <br>  Pas pratique"
         },
         {
           me: false,
-          text: "Patience .... ;)<br>"},
+          text: "Patience .... ;)"},
         {
           me: true,
-          text: "2/3 fois par jour <br>  Wow <br>  Avec ou sans porn ?<br>"
+          text: "2/3 fois par jour <br>  Wow <br>  Avec ou sans porn ?"
         },
         {
           me: false,
-          text: "Why porn?<br>I’ve just got to close my eyes...<br>And you are there on top me 💭<br>"},
+          text: "Why porn?<br>I’ve just got to close my eyes...<br>And you are there on top me 💭"},
         {
           me: true,
           text: "Jajaja<br>  J’ai vu un reportage sur lorgasme feminin<br>  New technique"
@@ -2424,14 +2424,14 @@ var blocks = [
           text: "Oh ...<br>Will you teach me?!"},
         {
           me: true,
-          text: "🙃<br>"
+          text: "🙃"
         },
         {
           me: false,
-          text: "Ca veut dire oui?! 😂<br>Ou il faudra que je te batte aux échecs?<br>"},
+          text: "Ca veut dire oui?! 😂<br>Ou il faudra que je te batte aux échecs?"},
         {
           me: true,
-          text: "Enfin je me vantais pas pour les échecs <br>  Mais bon j’avais envie de placer le mot niquer<br>  😛<br>"
+          text: "Enfin je me vantais pas pour les échecs <br>  Mais bon j’avais envie de placer le mot niquer<br>  😛"
         },
         {
           me: false,
@@ -2442,7 +2442,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "Ouh...<br>"},
+          text: "Ouh..."},
         {
           me: true,
           text: "Yep <br>  J’étais pas mal en colère <br>  Ces derniers jours"
@@ -2456,28 +2456,28 @@ var blocks = [
         },
         {
           me: false,
-          text: "Ou la frustration d’être de nouveau malade <br>  Ok...<br><br>  Je crois que je l’ai senti...<br>"},
+          text: "Ou la frustration d’être de nouveau malade <br>  Ok...<br><br>  Je crois que je l’ai senti..."},
         {
           me: true,
-          text: "Bah vu tes textos super formel <br>  😂<br>"
+          text: "Bah vu tes textos super formel <br>  😂"
         },
         {
           me: false,
-          text: "T’es drôle toi! 🙈<br>Tu étais en “panique” et je vais “trop vite” ... je ne savais plus comment écrire (avec la voix très serrée la) <br><br>"},
+          text: "T’es drôle toi! 🙈<br>Tu étais en “panique” et je vais “trop vite” ... je ne savais plus comment écrire (avec la voix très serrée la) <br>"},
         {
           me: true,
           text: "Ah oui j’avais oublié"
         },
         {
           me: false,
-          text: "Évidemment que j’avais envie d’être “moi-même” avec des 🖤 et des 🐷 et des “trésors”<br>  ... pffff 😂😂😂😂<br>"},
+          text: "Évidemment que j’avais envie d’être “moi-même” avec des 🖤 et des 🐷 et des “trésors”<br>  ... pffff 😂😂😂😂"},
         {
           me: true,
           text: "Hey I got fiever"
         },
         {
           me: false,
-          text: "True <br>  No worries <br>Everything is fine <br>And if you want to read a true D message : <br>  I’m freaaaaaaking misss youuuu!<br>"},
+          text: "True <br>  No worries <br>Everything is fine <br>And if you want to read a true D message : <br>  I’m freaaaaaaking misss youuuu!"},
         {
           me: true,
           text: "Ohhhh<br>  Bah pareil <br>  Mais j’aimerais ne pas te contaminer"
@@ -2505,17 +2505,17 @@ var blocks = [
         },
         {
           me: false,
-          text: "Et mercredi j’ai un discours 😫<br>"},
+          text: "Et mercredi j’ai un discours 😫"},
         {
           me: true,
-          text: "Cool<br>"
+          text: "Cool"
         },
         {
           me: false,
           text: "J’aime pas ça!"},
         {
           me: true,
-          text: "T’as préparé ?<br>  Whaaat<br>"
+          text: "T’as préparé ?<br>  Whaaat"
         },
         {
           me: false,
@@ -2533,7 +2533,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "Non non il regardait “il était une fois la vie” et “c’est pas sorcier” et “dr doogie”<br>"},
+          text: "Non non il regardait “il était une fois la vie” et “c’est pas sorcier” et “dr doogie”"},
         {
           me: true,
           text: "J’ai le droit à 15 min de récré"
@@ -2547,21 +2547,21 @@ var blocks = [
         },
         {
           me: false,
-          text: " C’est quoi “faire” le mâle?<br>"},
+          text: " C’est quoi “faire” le mâle?"},
         {
           me: true,
           text: "Où ton dragueur"
         },
         {
           me: false,
-          text: "Tu préfères les messages formels! 🙃<br>"},
+          text: "Tu préfères les messages formels! 🙃"},
         {
           me: true,
           text: "Oups<br>  Mayde mayde<br>  Annulation <br>  Retrait <br>  De la bombe"
         },
         {
           me: false,
-          text: "Mi amor! <br>Que todo esta bien! <br><br>"},
+          text: "Mi amor! <br>Que todo esta bien! <br>"},
         {
           me: true,
           text: "Mission abort"
@@ -2575,7 +2575,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "If you are CIA <br>I’m fucking KGB<br>"},
+          text: "If you are CIA <br>I’m fucking KGB"},
         {
           me: true,
           text: "Tu me racontes un truc drôle <br>  Avant ma prochaine sieste"
@@ -2592,7 +2592,7 @@ var blocks = [
           text: "Ok....<br>Mmmh <br>Voyons <br>  Quand j’étais petit <br>Ma mère m’appelait Bébé Vanille!<br>Parce que j’étais blanc comme un cul! <br>.... et blond!"},
         {
           me: true,
-          text: "Jajaja<br>"
+          text: "Jajaja"
         },
       ],
 
@@ -2603,35 +2603,35 @@ var blocks = [
         },
         {
           me: false,
-          text: "Coming right away!!!!<br>  Ah moins que c’était encore to  humour très particulier?! 🙈<br>"},
+          text: "Coming right away!!!!<br>  Ah moins que c’était encore to  humour très particulier?! 🙈"},
         {
           me: true,
-          text: "Nahhhh <br>  C’est la vérité <br>  Euh pardon <br>  C’est quoi mon humour très particulier?<br>"
+          text: "Nahhhh <br>  C’est la vérité <br>  Euh pardon <br>  C’est quoi mon humour très particulier?"
         },
         {
           me: false,
-          text: "😂😂😂😂<br>"},
+          text: "😂😂😂😂"},
         {
           me: true,
-          text: "😛<br>"
+          text: "😛"
         },
         {
           me: false,
           text: "J’adore ton humour!<br>On est des vrais fanfarons tout le deux!<br>2 clowns!<br>  😂<br>  J’arrive?"},
         {
           me: true,
-          text: "Quand j’essaie de cacher <br>  ?<br>  Ouiiiii<br>"
+          text: "Quand j’essaie de cacher <br>  ?<br>  Ouiiiii"
         },
         {
           me: false,
-          text: "Allez je mets mes « couches »<br>  Et j’enlève ma ceinture 🎉<br>"},
+          text: "Allez je mets mes « couches »<br>  Et j’enlève ma ceinture 🎉"},
         {
           me: true,
           text: "😂<br>  Tu peux venir en peignoir et le laisser sur le pas de ma porte"
         },
         {
           me: false,
-          text: "Héhé <br>Je vais excité tout le monde 😂<br>  A tout de suite 😘<br>"},
+          text: "Héhé <br>Je vais excité tout le monde 😂<br>  A tout de suite 😘"},
       ],
 
       [
@@ -2640,25 +2640,25 @@ var blocks = [
           text: "Trop ravi de te voir Honey Bun 😘<br>  Euh message d’une formalité un peu banal...<br><br>Je pense à toi 🙂"},
         {
           me: true,
-          text: "💙<br>  C’est la pause magic?<br>"
+          text: "💙<br>  C’est la pause magic?"
         },
         {
           me: false,
           text: "Grave!"},
         {
           me: true,
-          text: "Bien bossé !<br>  ?<br>"
+          text: "Bien bossé !<br>  ?"
         },
         {
           me: false,
-          text: "Je pense avoir trouvé de vrai idées pour V2 et V3 <br>mais le sexe m’envoûte 😂<br>"},
+          text: "Je pense avoir trouvé de vrai idées pour V2 et V3 <br>mais le sexe m’envoûte 😂"},
         {
           me: true,
-          text: "Whaaaaaaat<br>"
+          text: "Whaaaaaaat"
         },
         {
           me: false,
-          text: "Bah oui!<br>J’arrête pas de penser à nos joutes 😅<br>"},
+          text: "Bah oui!<br>J’arrête pas de penser à nos joutes 😅"},
         {
           me: true,
           text: "😛"
@@ -2668,7 +2668,7 @@ var blocks = [
       [
         {
           me: true,
-          text: "Tu veux jouter <br>  😛<br>"
+          text: "Tu veux jouter <br>  😛"
         },
         {
           me: false,
@@ -2679,52 +2679,52 @@ var blocks = [
         },
         {
           me: false,
-          text: "Je pars de chez moi! ;)<br>"},
+          text: "Je pars de chez moi! ;)"},
         {
           me: true,
-          text: "Oulalala<br>"
+          text: "Oulalala"
         },
         {
           me: false,
-          text: "🎉<br>"},
+          text: "🎉"},
       ],
 
       [
          {
           me: true,
-          text: "💙<br>"
+          text: "💙"
         },
         {
           me: false,
-          text: "Je pensais à toi aussi jolie cœur bleu 🖤<br>"},
+          text: "Je pensais à toi aussi jolie cœur bleu 🖤"},
         {
           me: true,
           text: "Je crois que j’ai rêvé <br>  Toute la journée"
         },
         {
           me: false,
-          text: "Non non <br>C’était bien réel <br>#BO ! 🙈<br>"},
+          text: "Non non <br>C’était bien réel <br>#BO ! 🙈"},
         {
           me: true,
-          text: "Et j’étais avec toi <br>  🙃😂💙🔥😘😛<br>"
+          text: "Et j’étais avec toi <br>  🙃😂💙🔥😘😛"
         },
         {
           me: false,
-          text: "Bien dormis?<br>"},
+          text: "Bien dormis?"},
         {
           me: true,
           text: "Pfiouuuu<br>  Je me réveille <br>  Je pense à toi <br>  Je m’endors <br>  Je pense à toi"
         },
         {
           me: false,
-          text: "Han!!!<br>"},
+          text: "Han!!!"},
         {
           me: true,
           text: "Je toi <br>  Ge nous<br>  Amuse toi bien à magic"
         },
         {
           me: false,
-          text: "Nous nous <br>Toi moi <br>Dada fou <br>Noir blanc <br>Roi Reine <br>Dualité et proximité <br>  J’aime nos joutes et nos échanges <br>  Tu m’apprends des choses <br>Moi aussi <br>  Amuse toi bien ma muse (rolala Ça rime) <br>  😘<br>"},
+          text: "Nous nous <br>Toi moi <br>Dada fou <br>Noir blanc <br>Roi Reine <br>Dualité et proximité <br>  J’aime nos joutes et nos échanges <br>  Tu m’apprends des choses <br>Moi aussi <br>  Amuse toi bien ma muse (rolala Ça rime) <br>  😘"},
         {
           me: true,
           text: "Bim bam boum"
@@ -2734,25 +2734,25 @@ var blocks = [
       [
         {
           me: true,
-          text: "Ahhhhh<br>  Keep calm and Focus <br>  💙<br>"
+          text: "Ahhhhh<br>  Keep calm and Focus <br>  💙"
         },
         {
           me: false,
-          text: "🖤<br>Pas encore couchée? 😘<br>"},
+          text: "🖤<br>Pas encore couchée? 😘"},
         {
           me: true,
           text: "Réveil !<br>  Changement d’horaire"
         },
         {
           me: false,
-          text: "Pareil<br>  WoW <br>  T’as fait le switch hyper facilement! 🖤<br>"},
+          text: "Pareil<br>  WoW <br>  T’as fait le switch hyper facilement! 🖤"},
         {
           me: true,
-          text: "Easy baby<br>  Trop de masturbation 😂<br>"
+          text: "Easy baby<br>  Trop de masturbation 😂"
         },
         {
           me: false,
-          text: "Ben devine ce qui m’a mis KO hier soir<br>  🙈🎉<br>"},
+          text: "Ben devine ce qui m’a mis KO hier soir<br>  🙈🎉"},
         {
           me: true,
           text: "J’ai eu des élans sexuels dans le corps <br>  Des frissons <br>  Des heures après <br>  Même encore maintenant"
@@ -2762,7 +2762,7 @@ var blocks = [
           text: "Hehe <br>  🖤<br>  J’adore!"},
         {
           me: true,
-          text: "😘<br>  Au moins t’as fait une belle nuit ?<br>"
+          text: "😘<br>  Au moins t’as fait une belle nuit ?"
         },
          {
           me: false,
@@ -2772,10 +2772,10 @@ var blocks = [
       [
         {
           me: false,
-          text: "Enfin arrive <br>35 min de retard 😫<br><br>J’ai des courbatures en bas du dos 😂😂😂😂<br>J’adore 😘🙈<br>"},
+          text: "Enfin arrive <br>35 min de retard 😫<br><br>J’ai des courbatures en bas du dos 😂😂😂😂<br>J’adore 😘🙈"},
         {
           me: true,
-          text: "Coquillette <br>  😛<br>"
+          text: "Coquillette <br>  😛"
         },
         {
           me: false,
@@ -2796,18 +2796,18 @@ var blocks = [
           text: "J’attends qu’on m’ouvre et je vais installer"},
         {
           me: true,
-          text: "Conquier it<br>"
+          text: "Conquier it"
         },
         {
           me: false,
-          text: "Yeah!!!<br>"},
+          text: "Yeah!!!"},
         {
           me: true,
-          text: "Et make it fucking awesome<br>"
+          text: "Et make it fucking awesome"
         },
         {
           me: false,
-          text: "I will babe <br>Awesome is my middle name ;)<br>"},
+          text: "I will babe <br>Awesome is my middle name ;)"},
         {
           me: true,
           text: "Call me yellow sun"
@@ -2834,11 +2834,11 @@ var blocks = [
           text: "Et la ... j’arrive chez moi <br>  Je me déshabille <br>  Je me mets dans mon lit <br>  Sur le dos"},
         {
           me: true,
-          text: "J’ai fait quoi 😂 ?<br>"
+          text: "J’ai fait quoi 😂 ?"
         },
         {
           me: false,
-          text: "Et la je te vois <br>  Directement nue allongé sur moi en quinconce <br>  Gros orteil dans ma bouche <br>  .... ÇA Y EST JE BANDE <br>  je suis dans le transilien <br>  😬<br>"},
+          text: "Et la je te vois <br>  Directement nue allongé sur moi en quinconce <br>  Gros orteil dans ma bouche <br>  .... ÇA Y EST JE BANDE <br>  je suis dans le transilien <br>  😬"},
         {
           me: true,
           text: "Oupsi"
@@ -2848,34 +2848,34 @@ var blocks = [
       [
         {
           me: true,
-          text: "💙<br>"
+          text: "💙"
         },
         {
           me: false,
-          text: "À toi! <br>  🖤<br>"},
+          text: "À toi! <br>  🖤"},
         {
           me: true,
-          text: "🍆<br>  🌡<br>"
+          text: "🍆<br>  🌡"
         },
         {
           me: false,
-          text: "🐷🐷<br>"},
+          text: "🐷🐷"},
         {
           me: true,
           text: "LEGO"
         },
         {
           me: false,
-          text: "😘<br>"},
+          text: "😘"},
       ],
 
       [
         {
           me: false,
-          text: "Hey Yellow sunshine!<br>I was in class ;)<br><br>Ca va?😘<br>  Je te vois!!! <br>Tu es en train de rire à mes conneries!<br>Tes yeux se plissent et tu me fixes avec se regard, sure de toi.<br>KAT, tu me fais sourire, même seul dans le métro.<br>😘<br>"},
+          text: "Hey Yellow sunshine!<br>I was in class ;)<br><br>Ca va?😘<br>  Je te vois!!! <br>Tu es en train de rire à mes conneries!<br>Tes yeux se plissent et tu me fixes avec se regard, sure de toi.<br>KAT, tu me fais sourire, même seul dans le métro.<br>😘"},
         {
           me: true,
-          text: "🙃<br>  Hello la biche <br>  Ca va et toi ? <br>  J’ai pris la caisse <br>  Et j’arrive à Nevers<br>  Là je fais une pause autoroute <br>  Je vais voir la cathédrale <br>  Pour les vitraux<br>  Coup de tête 😛<br>"
+          text: "🙃<br>  Hello la biche <br>  Ca va et toi ? <br>  J’ai pris la caisse <br>  Et j’arrive à Nevers<br>  Là je fais une pause autoroute <br>  Je vais voir la cathédrale <br>  Pour les vitraux<br>  Coup de tête 😛"
         },
       ],
 
@@ -2886,60 +2886,60 @@ var blocks = [
         },
         {
           me: false,
-          text: "Oui je serais vers chez moi aussi <br>Je veux entendre ta voix! 🖤<br>"},
+          text: "Oui je serais vers chez moi aussi <br>Je veux entendre ta voix! 🖤"},
         {
           me: true,
           text: "Des kiss la biche"
         },
         {
           me: false,
-          text: "Oui! <br>Toi aussi <br>Mwwwwwah<br>"},
+          text: "Oui! <br>Toi aussi <br>Mwwwwwah"},
       ],
 
       [
         {
           me: false,
-          text: "Hello<br>J’ai pas vu ton message<br>Tu es dispo?!<br>Tu dois être au tel<br>Appel quand tu veux 😘<br>J’espère te voir demain 🖤<br>Ça serait cool 😘<br><br>Je ne vais pas tarder non plus je pense, lessivé de cette journée intense. <br><br><br>Ps:<br>Mais je garde mon tél tout tout tout prêt de moi (genre collé à ma joue) mais je serai matinal aussi (#lessive) <br><br>PS2:<br>Mais qu’est-ce que t’es belle!<br>"},
+          text: "Hello<br>J’ai pas vu ton message<br>Tu es dispo?!<br>Tu dois être au tel<br>Appel quand tu veux 😘<br>J’espère te voir demain 🖤<br>Ça serait cool 😘<br><br>Je ne vais pas tarder non plus je pense, lessivé de cette journée intense. <br><br><br>Ps:<br>Mais je garde mon tél tout tout tout prêt de moi (genre collé à ma joue) mais je serai matinal aussi (#lessive) <br><br>PS2:<br>Mais qu’est-ce que t’es belle!"},
         {
           me: true,
-          text: "💙<br>"
+          text: "💙"
         },
         {
           me: false,
-          text: "🖤<br>"},
+          text: "🖤"},
       ],
 
       [
         {
           me: false,
-          text: "Là,<br>Maintenant,de suite <br><br>Tes bras 😘<br>"},
+          text: "Là,<br>Maintenant,de suite <br><br>Tes bras 😘"},
         {
           me: true,
           text: "Je disais à mon esthéticienne <br>  Ce qui fait flipper <br>  C’est que c’est trop beau pour être vrai"
         },
         {
           me: false,
-          text: "... et pourquoi je panique 🤫🙈<br>  En tout cas ... moi j’existe <br>"},
+          text: "... et pourquoi je panique 🤫🙈<br>  En tout cas ... moi j’existe "},
         {
           me: true,
           text: "Donc soit y’a anguille sous roche 😛 soit c’est les traumas du passé qu’il faut annihiler"
         },
         {
           me: false,
-          text: "Je veux bien faire les choses avec toi.<br>Traumas du passé oui c’est certains de mon côté!<br>Je ne pensais pas TE rencontrer sur une appli!<br>C’est fou! <br>#coeurquibat<br>"},
+          text: "Je veux bien faire les choses avec toi.<br>Traumas du passé oui c’est certains de mon côté!<br>Je ne pensais pas TE rencontrer sur une appli!<br>C’est fou! <br>#coeurquibat"},
       ],
 
       [
         {
           me: true,
-          text: "Bah moi je vais me masturber<br>  En pensant à toiiiii<br>  Programme de ouf de mes vacances <br>  Lire<br>  Masturber<br>  Dormir<br>  Oh mon dieu <br>  Nah mais il faut que je retourne au boulot 😂<br>"
+          text: "Bah moi je vais me masturber<br>  En pensant à toiiiii<br>  Programme de ouf de mes vacances <br>  Lire<br>  Masturber<br>  Dormir<br>  Oh mon dieu <br>  Nah mais il faut que je retourne au boulot 😂"
         },
         {
           me: false,
           text: "Mais je t’adore!!!!<br><br>  Ca été ta séance ;)"},
         {
           me: true,
-          text: "Yessss<br>  Ton chibre <br>  🍆<br>"
+          text: "Yessss<br>  Ton chibre <br>  🍆"
         },
         {
           me: false,
@@ -2950,38 +2950,38 @@ var blocks = [
         },
         {
           me: false,
-          text: "Je vais me mettre dans cet état aussi tôt que j’ai de l’intimité 😘<br>"},
+          text: "Je vais me mettre dans cet état aussi tôt que j’ai de l’intimité 😘"},
         {
           me: true,
           text: "On devrait se masturber ensemble dimanche<br>  Voilà un truc que j’ai envie de faire"
         },
         {
           me: false,
-          text: "Allez!<br>"},
+          text: "Allez!"},
       ],
 
       [
         {
           me: true,
-          text: "Je vais te calmer avec mes doigts <br>  😛<br>"
+          text: "Je vais te calmer avec mes doigts <br>  😛"
         },
         {
           me: false,
-          text: "J’en ai besoin là!!! 🙈😅😬🐷<br>"},
+          text: "J’en ai besoin là!!! 🙈😅😬🐷"},
         {
           me: true,
-          text: "Et voilà <br>  Je suis de nouveau excité <br>  J’ai l’impression d’être ado<br>"
+          text: "Et voilà <br>  Je suis de nouveau excité <br>  J’ai l’impression d’être ado"
         },
         {
           me: false,
-          text: "Pourquoi j’étais pas sous la douche tout de suite après ton call 😊🤓?<br>"},
+          text: "Pourquoi j’étais pas sous la douche tout de suite après ton call 😊🤓?"},
         {
           me: true,
-          text: "😂<br>"
+          text: "😂"
         },
         {
           me: false,
-          text: "💙🐷🖤<br>"},
+          text: "💙🐷🖤"},
       ],
 
       [
@@ -2990,35 +2990,35 @@ var blocks = [
           text: "T’es bonne! (En typo hein! 😂)<br><br>J’adore"},
         {
           me: true,
-          text: "T’es bonne, tout nu dans mon lit<br>"
+          text: "T’es bonne, tout nu dans mon lit"
         },
       ],
 
       [
         {
           me: false,
-          text: "Est-ce que je passe te voir te dire bonne nuit? 😬<br>  Juste dire bonne nuit hein! 😬<br>"},
+          text: "Est-ce que je passe te voir te dire bonne nuit? 😬<br>  Juste dire bonne nuit hein! 😬"},
         {
           me: true,
-          text: "Ouhhhhh<br>"
+          text: "Ouhhhhh"
         },
         {
           me: false,
-          text: "Mon chibre is on fire encore 🥵<br>"},
+          text: "Mon chibre is on fire encore 🥵"},
         {
           me: true,
-          text: "Normal<br>"
+          text: "Normal"
         },
         {
           me: false,
-          text: "🙈<br>"},
+          text: "🙈"},
         {
           me: true,
           text: "48h de cicatrisation"
         },
         {
           me: false,
-          text: "At least... 🤓<br>"},
+          text: "At least... 🤓"},
       ],
 
       [
@@ -3028,24 +3028,24 @@ var blocks = [
         },
         {
           me: false,
-          text: "Ça va?<br>  Mais oui oui ok je termine la <br>  On se call dans 5 min?<br>"},
+          text: "Ça va?<br>  Mais oui oui ok je termine la <br>  On se call dans 5 min?"},
         {
           me: true,
-          text: "Bah je dois déposer plainte <br>  😕<br>  T’as volé mon cœur <br>  😂💙<br>"
+          text: "Bah je dois déposer plainte <br>  😕<br>  T’as volé mon cœur <br>  😂💙"
         },
       ],
 
       [
         {
           me: true,
-          text: "J’ai dormi<br>"
+          text: "J’ai dormi"
         },
         {
           me: false,
-          text: "Han! <br><br>"},
+          text: "Han! <br>"},
         {
           me: true,
-          text: "Je me rêve<br>"
+          text: "Je me rêve"
         },
         {
           me: false,
@@ -3059,14 +3059,14 @@ var blocks = [
           text: "Aaah"},
         {
           me: true,
-          text: "J’ai fin<br>  Faim<br>"
+          text: "J’ai fin<br>  Faim"
         },
         {
           me: false,
           text: "C’était beau “je me rêve”"},
         {
           me: true,
-          text: "💙<br>"
+          text: "💙"
         },
       ],
 
@@ -3080,41 +3080,41 @@ var blocks = [
         },
         {
           me: false,
-          text: "Les trucs qui font peter c’est mort! <br>T’es toxic toi! 😂😂😂😂😂<br>"},
+          text: "Les trucs qui font peter c’est mort! <br>T’es toxic toi! 😂😂😂😂😂"},
         {
           me: true,
-          text: "Maaaaaais <br>  J’adore les haricots <br>  Et y’a que les œufs et la viande qui me font peter l’odeur de la mort 😉<br>"
+          text: "Maaaaaais <br>  J’adore les haricots <br>  Et y’a que les œufs et la viande qui me font peter l’odeur de la mort 😉"
         },
         {
           me: false,
           text: "You can have everything"},
         {
           me: true,
-          text: "I know <br>  And i promess<br>  I will not fart<br>  On yur noise<br>  Never<br>"
+          text: "I know <br>  And i promess<br>  I will not fart<br>  On yur noise<br>  Never"
         },
         {
           me: false,
           text: "Your fart is happiness !<br>Lové farts"},
         {
           me: true,
-          text: "But You should know<br>  My vegan fart<br>  Smell délicieux <br>  😂💙<br>  Really !<br>"
+          text: "But You should know<br>  My vegan fart<br>  Smell délicieux <br>  😂💙<br>  Really !"
         },
         {
           me: false,
           text: "😂😂😂😂😂<br>  Vegan lesbian fart <br>  Go round 2 <br>  J’ai gagné la première"},
         {
           me: true,
-          text: "💙<br>"
+          text: "💙"
         },
       ],
 
       [
         {
           me: false,
-          text: "Je pense à toi,<br>Tes pieds <br>Tes yeux <br>Ton rire et mes tes pets délicieux 😵<br>  😂<br>"},
+          text: "Je pense à toi,<br>Tes pieds <br>Tes yeux <br>Ton rire et mes tes pets délicieux 😵<br>  😂"},
         {
           me: true,
-          text: "😛😂💙<br>  Donc la com’<br>  Que de la com’<br>  Ok<br>"
+          text: "😛😂💙<br>  Donc la com’<br>  Que de la com’<br>  Ok"
         },
         {
           me: false,
@@ -3125,31 +3125,31 @@ var blocks = [
         },
         {
           me: false,
-          text: "Ben une journée dessin <br>  Et le reste de la semaine com!<br>  Lundi on bosse<br>  De ouf! <br>  Okay?<br>"},
+          text: "Ben une journée dessin <br>  Et le reste de la semaine com!<br>  Lundi on bosse<br>  De ouf! <br>  Okay?"},
         {
           me: true,
-          text: "🥺<br>  😭<br>"
+          text: "🥺<br>  😭"
         },
         {
           me: false,
-          text: "Non?! 😅<br>"},
+          text: "Non?! 😅"},
         {
           me: true,
           text: "Oui oui <br>  Mais c’est horrible"
         },
         {
           me: false,
-          text: "💙🖤<br>"},
+          text: "💙🖤"},
         {
           me: true,
-          text: "Je veux pas faire six jours de com’<br>"
+          text: "Je veux pas faire six jours de com’"
         },
         {
           me: false,
           text: "Ben si tu le fais sur une année <br>  Ça fait ça <br>  3 mois de résidence <br>  Et 7 mois de « projet » pour te dire connaître <br>  Du grand public et des pro<br>  Je suis presque dans les clous la <br>  ;)<br>  Et en vrai ça va!"},
         {
           me: true,
-          text: "🥺<br>  Bon bah <br>  Je vais processer cette information <br>  😂<br>"
+          text: "🥺<br>  Bon bah <br>  Je vais processer cette information <br>  😂"
         },
         {
           me: false,
@@ -3162,7 +3162,7 @@ var blocks = [
           text: "You are the best"},
         {
           me: true,
-          text: "I knowwww <br>  But just for youuuuu<br>"
+          text: "I knowwww <br>  But just for youuuuu"
         },
         {
           me: false,
@@ -3172,14 +3172,14 @@ var blocks = [
       [
         {
           me: true,
-          text: "Ok Artist hipster qui ronfle 💙<br>"
+          text: "Ok Artist hipster qui ronfle 💙"
         },
         {
           me: false,
-          text: "Ahahahaha <br>  Qui se tape une lesbian vegan hippie 😂<br>"},
+          text: "Ahahahaha <br>  Qui se tape une lesbian vegan hippie 😂"},
         {
           me: true,
-          text: "Mais quel couple <br>  Blaaaaaah<br>"
+          text: "Mais quel couple <br>  Blaaaaaah"
         },
         {
           me: false,
@@ -3203,25 +3203,25 @@ var blocks = [
           text: "C à d"},
         {
           me: true,
-          text: "Et je ne devrais pas 🙃<br>"
+          text: "Et je ne devrais pas 🙃"
         },
         {
           me: false,
-          text: " 😌<br>"},
+          text: " 😌"},
         {
           me: true,
           text: "C’est aussi débrancher l’éducation de petite fille 😂 parfaite"
         },
         {
           me: false,
-          text: "T’es mal élevée on avait dit! 😛<br>"},
+          text: "T’es mal élevée on avait dit! 😛"},
         {
           me: true,
-          text: "J’essaye 🍓<br>  Mais je suis aussi cette petite fille qui lit des bouquins devant la classe 🥺<br>"
+          text: "J’essaye 🍓<br>  Mais je suis aussi cette petite fille qui lit des bouquins devant la classe 🥺"
         },
         {
           me: false,
-          text: "J’avais compris ça...<br>Ben c’est de cette fille là dont je suis tomber amoureux... 😌<br>"},
+          text: "J’avais compris ça...<br>Ben c’est de cette fille là dont je suis tomber amoureux... 😌"},
         {
           me: true,
           text: "Ouh grand fou 😝"
@@ -3235,14 +3235,14 @@ var blocks = [
         },
         {
           me: false,
-          text: "Ca Marche<br>Comme tu veux <br>Je serai chez moi vers 23h30 je pense<br>"},
+          text: "Ca Marche<br>Comme tu veux <br>Je serai chez moi vers 23h30 je pense"},
         {
           me: true,
-          text: "Ok beauté <br>  Comment ça comme je veux 😂<br>  Bah sinon demain écoute<br>  Si t’es pas chaud <br>  Pour ce soir<br>  Tu veux un peu de temps ?<br>"
+          text: "Ok beauté <br>  Comment ça comme je veux 😂<br>  Bah sinon demain écoute<br>  Si t’es pas chaud <br>  Pour ce soir<br>  Tu veux un peu de temps ?"
         },
         {
           me: false,
-          text: "Ou la...<br>Bon <br>Oui ok se voir demain. <br><br>Ca a l’air compliqué la.<br><br>Bonne soirée<br>"},
+          text: "Ou la...<br>Bon <br>Oui ok se voir demain. <br><br>Ca a l’air compliqué la.<br><br>Bonne soirée"},
       ],
 
       [
@@ -3252,24 +3252,24 @@ var blocks = [
         },
         {
           me: false,
-          text: "Pas très bien hier. <br>Et toi?<br>"},
+          text: "Pas très bien hier. <br>Et toi?"},
         {
           me: true,
-          text: "Bof<br>"
+          text: "Bof"
         },
         {
           me: false,
-          text: "Je termine avec S et je suis à toi. <br><br>A tout de suite <br>  Bon,<br>Je n’y arrive pas...<br>Je veux te voir. <br><br>"},
+          text: "Je termine avec S et je suis à toi. <br><br>A tout de suite <br>  Bon,<br>Je n’y arrive pas...<br>Je veux te voir. <br>"},
         {
           me: true,
-          text: "Je passe te voir dans 20 min, ok?<br>"
+          text: "Je passe te voir dans 20 min, ok?"
         },
         {
           me: false,
           text: "Oui <br>Viens"},
         {
           me: true,
-          text: "Je suis là <br>  Tu peux descendre?<br>"
+          text: "Je suis là <br>  Tu peux descendre?"
         },
       ],
 
@@ -3280,31 +3280,31 @@ var blocks = [
         },
         {
           me: false,
-          text: "Je te rejoins pour la clope <br>C’était un turbo 😂<br>  Je pense à toi... fort 😘<br>"},
+          text: "Je te rejoins pour la clope <br>C’était un turbo 😂<br>  Je pense à toi... fort 😘"},
         {
           me: true,
-          text: "Moi aussiii<br>  💙🖤<br>"
+          text: "Moi aussiii<br>  💙🖤"
         },
         {
           me: false,
-          text: "🖤💙<br>"},
+          text: "🖤💙"},
         {
           me: true,
-          text: "Bon allez faut que je me motive 😂💙<br>"
+          text: "Bon allez faut que je me motive 😂💙"
         },
         {
           me: false,
-          text: "Je me disais la même chose 😱😂<br>"},
+          text: "Je me disais la même chose 😱😂"},
         {
           me: true,
           text: "Pfiouuu beaucoup plus facile"
         },
         {
           me: false,
-          text: "Je zone!!!<br>"},
+          text: "Je zone!!!"},
         {
           me: true,
-          text: "De rester dans tes bras<br>"
+          text: "De rester dans tes bras"
         },
         {
           me: false,
@@ -3315,7 +3315,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "Je suis à de doigt de te demander de rester <br>  Et je reviens 😬<br>  😂😂😂😂<br>"},
+          text: "Je suis à de doigt de te demander de rester <br>  Et je reviens 😬<br>  😂😂😂😂"},
         {
           me: true,
           text: "💙😂<br>  Ohhhhh<br>  Sexy<br>  Love"
@@ -3329,48 +3329,48 @@ var blocks = [
         },
         {
           me: false,
-          text: "Va!<br>On se voit demain<br>"},
+          text: "Va!<br>On se voit demain"},
         {
           me: true,
           text: "Un peu de méditation"
         },
         {
           me: false,
-          text: "« Je t’hypothese »<br>  « Je te machine »<br>"},
+          text: "« Je t’hypothese »<br>  « Je te machine »"},
         {
           me: true,
           text: "Je te verticalement"
         },
         {
           me: false,
-          text: "« Je te parallèle »<br>  Allez allez <br>  Go go go <br>  😘<br>"},
+          text: "« Je te parallèle »<br>  Allez allez <br>  Go go go <br>  😘"},
       ],
 
       [
         {
           me: true,
-          text: "T’es parti avec la Chyro 😂😭😖🍓🍑<br>"
+          text: "T’es parti avec la Chyro 😂😭😖🍓🍑"
         },
         {
           me: false,
-          text: "Tout va bien <br>Je termine la 😂😘<br>"},
+          text: "Tout va bien <br>Je termine la 😂😘"},
         {
           me: true,
-          text: "😂 ok donc je sors pas ma cape et mon fleuret 😝<br>"
+          text: "😂 ok donc je sors pas ma cape et mon fleuret 😝"
         },
         {
           me: false,
-          text: "😂😂<br>"},
+          text: "😂😂"},
         {
           me: true,
-          text: "J’arrive 💙🖤<br>"
+          text: "J’arrive 💙🖤"
         },
         {
           me: false,
           text: "<br>Il pleut sa mère <br>Ne fond pas hein!"},
         {
           me: true,
-          text: "Parce que quand tu me lèches j’ai un goût de sucre 😝 ?<br>"
+          text: "Parce que quand tu me lèches j’ai un goût de sucre 😝 ?"
         },
       ],
 
@@ -3394,17 +3394,17 @@ var blocks = [
       [
         {
           me: false,
-          text: "Se réveiller et penser à toi <br>Voir tes pieds en quinconce se poser sur mon visage...<br>Hâte que cette journée se termine! <br>J’ai « longuement » parler de toi...<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>                             ... à ma mère 😂<br>"},
+          text: "Se réveiller et penser à toi <br>Voir tes pieds en quinconce se poser sur mon visage...<br>Hâte que cette journée se termine! <br>J’ai « longuement » parler de toi...<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>                             ... à ma mère 😂"},
         {
           me: true,
-          text: "Ok<br>  En bien ?<br>"
+          text: "Ok<br>  En bien ?"
         },
         {
           me: false,
-          text: "Bah non! <br>Jai bichté! <br>J’ai dit qui tu lui avait volé son fils 😂😂😂😂<br>"},
+          text: "Bah non! <br>Jai bichté! <br>J’ai dit qui tu lui avait volé son fils 😂😂😂😂"},
         {
           me: true,
-          text: "😂<br>"
+          text: "😂"
         },
       ],
 
@@ -3415,38 +3415,38 @@ var blocks = [
         },
         {
           me: false,
-          text: "Je sais <br>J’ai vu <br>T’avais l’air très stoned 😊<br>Et chez moi aussi <br><br><br>"},
+          text: "Je sais <br>J’ai vu <br>T’avais l’air très stoned 😊<br>Et chez moi aussi <br><br>"},
         {
           me: true,
-          text: "Chez toi c’était de la fatigue <br>  Hier j’ai un peu fumé 😛<br>  Mais surtout j’ai besoin de temps seule pour re calibrer <br>  Moi je l’aime ma solitude 🙃🍑<br>"
+          text: "Chez toi c’était de la fatigue <br>  Hier j’ai un peu fumé 😛<br>  Mais surtout j’ai besoin de temps seule pour re calibrer <br>  Moi je l’aime ma solitude 🙃🍑"
         },
         {
           me: false,
           text: "Je comprends pas de problèmes <br>🙂<br>  Tu préfères rester chez toi ce soir?<br>  On se voit tout les jours mais peut-être que ça « t’affecte » trop."},
         {
           me: true,
-          text: "C’est surtout que je suis en transition <br>  On s’est rencontré j’étais en vacances <br>  Là il faut que j’arrête les vacances 😂<br>  Que je finisse ma nouvelle version <br>  Et surtout je veux repasser sur mon autre rythme <br>  Celui où je me lève à 4h du mat’<br>  Donc oui on dort ensemble samedi soir<br>  Mais ce soir je vais rentrer chez moi après<br>"
+          text: "C’est surtout que je suis en transition <br>  On s’est rencontré j’étais en vacances <br>  Là il faut que j’arrête les vacances 😂<br>  Que je finisse ma nouvelle version <br>  Et surtout je veux repasser sur mon autre rythme <br>  Celui où je me lève à 4h du mat’<br>  Donc oui on dort ensemble samedi soir<br>  Mais ce soir je vais rentrer chez moi après"
         },
         {
           me: false,
-          text: "Y a pas de problème <br>Je comprends tout à fait 😘<br>"},
+          text: "Y a pas de problème <br>Je comprends tout à fait 😘"},
         {
           me: true,
           text: "😉😘💙<br>  I know<br>  You are perfect for messe<br>  Meeeeee<br>  For me<br>  For me<br>  Formidable"
         },
         {
           me: false,
-          text: "Han!<br>Je ne sais pas ça <br>Je sais juste que je veux mieux faire avec toi. <br>😘<br>"},
+          text: "Han!<br>Je ne sais pas ça <br>Je sais juste que je veux mieux faire avec toi. <br>😘"},
         {
           me: true,
-          text: "Bah déjà t’as compris que j’allais pas disparaître 😉💙<br>"
+          text: "Bah déjà t’as compris que j’allais pas disparaître 😉💙"
         },
         {
           me: false,
-          text: "C’est bien ça déjà 🖤💙<br>"},
+          text: "C’est bien ça déjà 🖤💙"},
         {
           me: true,
-          text: "Comment je te kiffe beauté 💙🖤🍑<br>"
+          text: "Comment je te kiffe beauté 💙🖤🍑"
         },
       ],
 
@@ -3463,28 +3463,28 @@ var blocks = [
       [
         {
           me: true,
-          text: "Et puis ce soir tu peux dormir avec moi, mais je bosserai un peu 😛<br>"
+          text: "Et puis ce soir tu peux dormir avec moi, mais je bosserai un peu 😛"
         },
         {
           me: false,
-          text: "Non non je vais t’influencer ;)<br>J’adorerai mais attendons ce week-end 😘<br>"},
+          text: "Non non je vais t’influencer ;)<br>J’adorerai mais attendons ce week-end 😘"},
         {
           me: true,
-          text: "Bah j’ai envie <br>  Et puis quand j’aurai une déconvenue à 10000 balles je veux pas dormir toute seule !<br>"
+          text: "Bah j’ai envie <br>  Et puis quand j’aurai une déconvenue à 10000 balles je veux pas dormir toute seule !"
         },
         {
           me: false,
           text: "Mmh <br>Bah d’accord <br><br>(Yeahhhhhhhhhhhhhh) <br><br>  Han.... <br><br>  Merci beybey"},
         {
           me: true,
-          text: "💙<br>  Bon par contre je viens pas te chercher à l’école <br>  Je vais me faire 2 heures de boulot <br>  Je te retrouve chez toi <br>  Directement <br>  Je coupe le phone <br>  💙🖤<br>"
+          text: "💙<br>  Bon par contre je viens pas te chercher à l’école <br>  Je vais me faire 2 heures de boulot <br>  Je te retrouve chez toi <br>  Directement <br>  Je coupe le phone <br>  💙🖤"
         },
         {
           me: false,
-          text: "Ok ok 💙🖤<br>  Je pars bientôt chez moi. <br>Tu me laisses 30min que je range etc 😅<br>C’est le salon quand même <br>  OU...<br>je trace chez toi et je dors direct 😂😂😂😂😂<br>"},
+          text: "Ok ok 💙🖤<br>  Je pars bientôt chez moi. <br>Tu me laisses 30min que je range etc 😅<br>C’est le salon quand même <br>  OU...<br>je trace chez toi et je dors direct 😂😂😂😂😂"},
         {
           me: true,
-          text: "On mange dans la cuisine <br>  J’ai faim <br>  Et après on va dans la chambre <br>  Ça te va ?<br>"
+          text: "On mange dans la cuisine <br>  J’ai faim <br>  Et après on va dans la chambre <br>  Ça te va ?"
         },
         {
           me: false,
@@ -3501,25 +3501,25 @@ var blocks = [
           text: "Je te rappelle après. <br><br>But sure."},
         {
           me: true,
-          text: "Je vais bosser <br>  Récupérer mon rythme <br>  Ca va toi ?<br>  Tu boudes?<br>"
+          text: "Je vais bosser <br>  Récupérer mon rythme <br>  Ca va toi ?<br>  Tu boudes?"
         },
         {
           me: false,
-          text: "Hello<br>Pas de soucis.<br>J’espère que ça va mieux. <br>Oui ça va. <br>J’étais un peu inquiet de ton message plus tôt. <br><br>Je ne boude pas. <br><br>Mon tournois va commencer. <br><br>Si tu es dispo on s’appelle ce soir si tu es ok. <br><br>Je t’embrasse,<br>"},
+          text: "Hello<br>Pas de soucis.<br>J’espère que ça va mieux. <br>Oui ça va. <br>J’étais un peu inquiet de ton message plus tôt. <br><br>Je ne boude pas. <br><br>Mon tournois va commencer. <br><br>Si tu es dispo on s’appelle ce soir si tu es ok. <br><br>Je t’embrasse,"},
         {
           me: true,
-          text: "Ok cool <br>  Enjoy<br>  💙<br>"
+          text: "Ok cool <br>  Enjoy<br>  💙"
         },
         {
           me: false,
-          text: "🖤💙<br>"},
+          text: "🖤💙"},
         {
           me: true,
           text: "Et tu me fais ta mise en page de boudeur 😛<br>  Mais tkt <br>  Laisse moi quelques jour <br>  Le temps que je redevienne terminator du boulot"
         },
         {
           me: false,
-          text: "Ça marche <br>C’est pas boudeur mais inquiet (tres tout l’aprem)<br>Je te fais confiance 😘<br>"},
+          text: "Ça marche <br>C’est pas boudeur mais inquiet (tres tout l’aprem)<br>Je te fais confiance 😘"},
       ],
 
       [
@@ -3539,66 +3539,66 @@ var blocks = [
           text: "Ben il peut nous rejoindre à l’expo et on va dîner / boire un verre après <br>  Il sera avec moi au tournois"},
         {
           me: true,
-          text: "Oui si ça le soûle pas <br>  🙃<br>"
+          text: "Oui si ça le soûle pas <br>  🙃"
         },
         {
           me: false,
-          text: "Il aime bien les expos <br>Je vais en pause si tu veux call!<br>(C’est fou j’ai juste trop envie d’être avec toi ... on s’est là lache 😂😂😂)<br>  On s’est pas lâché*<br>  Demain! Mais j’ai pas Magic je pensais à samedi<br>  Donc oui parfait <br>  Ca va être court ma pause du coup (retard oblige 😅) mais dans une heure je suis là 😘<br>  Tu as pu bénéficié de la remise?<br>"},
+          text: "Il aime bien les expos <br>Je vais en pause si tu veux call!<br>(C’est fou j’ai juste trop envie d’être avec toi ... on s’est là lache 😂😂😂)<br>  On s’est pas lâché*<br>  Demain! Mais j’ai pas Magic je pensais à samedi<br>  Donc oui parfait <br>  Ca va être court ma pause du coup (retard oblige 😅) mais dans une heure je suis là 😘<br>  Tu as pu bénéficié de la remise?"},
         {
           me: true,
-          text: "Yessss<br>"
+          text: "Yessss"
         },
         {
           me: false,
           text: "Nice!"},
         {
           me: true,
-          text: "On s’est lâché ?<br>  Ahhhh<br>  Pas lache <br>  Ok 😂<br>"
+          text: "On s’est lâché ?<br>  Ahhhh<br>  Pas lache <br>  Ok 😂"
         },
         {
           me: false,
-          text: "Ben on a été toute la journée “ensemble” 💙🖤<br>  ☺️<br>"},
+          text: "Ben on a été toute la journée “ensemble” 💙🖤<br>  ☺️"},
         {
           me: true,
           text: "Jajaja<br>  J’ai quasi fini de vider l’appart"
         },
         {
           me: false,
-          text: "Wow Mais t’es une machine<br>"},
+          text: "Wow Mais t’es une machine"},
         {
           me: true,
-          text: "😂<br>  Tu t’es vu ?<br>"
+          text: "😂<br>  Tu t’es vu ?"
         },
         {
           me: false,
-          text: "Ahahaha <br>  On va si bien ensemble 🤗<br>"},
+          text: "Ahahaha <br>  On va si bien ensemble 🤗"},
         {
           me: true,
-          text: "😛<br>  J’organise un peu <br>  Et puis t’arrive <br>  Et on a toute la nuiiiiiit<br>"
+          text: "😛<br>  J’organise un peu <br>  Et puis t’arrive <br>  Et on a toute la nuiiiiiit"
         },
         {
           me: false,
-          text: "Carrément Bella! <br>  J’ai vu <br>J’ai ri<br>"},
+          text: "Carrément Bella! <br>  J’ai vu <br>J’ai ri"},
         {
           me: true,
-          text: "😂<br>"
+          text: "😂"
         },
       ],
 
       [
         {
           me: false,
-          text: "Terminé <br>Je rentre sec!<br>"},
+          text: "Terminé <br>Je rentre sec!"},
         {
           me: true,
           text: "Ça roule 🙃<br>  À tutti"
         },
         {
           me: false,
-          text: "À tutti 😘<br>  J’ai ri encore <br>"},
+          text: "À tutti 😘<br>  J’ai ri encore "},
         {
           me: true,
-          text: "Celle là elle est old 😛<br>"
+          text: "Celle là elle est old 😛"
         },
         {
           me: false,
@@ -3609,28 +3609,28 @@ var blocks = [
         },
         {
           me: false,
-          text: "Cool 😍<br>  Je rentre <br>😘<br>"},
+          text: "Cool 😍<br>  Je rentre <br>😘"},
         {
           me: true,
           text: "Okeeeee<br>  Je lisais"
         },
         {
           me: false,
-          text: "Pas sushi <br>Je suis vers chez moi <br>Jarrive 😘<br>"},
+          text: "Pas sushi <br>Je suis vers chez moi <br>Jarrive 😘"},
         {
           me: true,
-          text: "Ok à tutti<br>  😂<br>  OMG<br>"
+          text: "Ok à tutti<br>  😂<br>  OMG"
         },
         {
           me: false,
-          text: "Quoi?<br>"},
+          text: "Quoi?"},
         {
           me: true,
-          text: "Thats a joke <br>  Pas sushi<br>"
+          text: "Thats a joke <br>  Pas sushi"
         },
         {
           me: false,
-          text: "De quoi?<br>"},
+          text: "De quoi?"},
         {
           me: true,
           text: "🍣"
@@ -3640,11 +3640,11 @@ var blocks = [
           text: "Ahahahaha"},
         {
           me: true,
-          text: "😛<br>  T’as du parmesan encore ?<br>  C’est bon <br>  🙃<br>"
+          text: "😛<br>  T’as du parmesan encore ?<br>  C’est bon <br>  🙃"
         },
         {
           me: false,
-          text: "Jarrive! <br>  Tu es prête?<br>Je viens vers la NR 😘<br>"},
+          text: "Jarrive! <br>  Tu es prête?<br>Je viens vers la NR 😘"},
       ],
 
       [
@@ -3654,31 +3654,31 @@ var blocks = [
         },
         {
           me: false,
-          text: "Han...<br>"},
+          text: "Han..."},
         {
           me: true,
           text: "J’ai mis un réveil"
         },
         {
           me: false,
-          text: "Ca va?<br>"},
+          text: "Ca va?"},
         {
           me: true,
-          text: "J’ai fermé les yeux <br>  Ça a sonné <br>  😂<br>"
+          text: "J’ai fermé les yeux <br>  Ça a sonné <br>  😂"
         },
         {
           me: false,
-          text: "On attends 20h?<br>  Attend*<br>"},
+          text: "On attends 20h?<br>  Attend*"},
         {
           me: true,
           text: "Tu m’as épuisé <br>  Mais viens si tu veux"
         },
         {
           me: false,
-          text: "Sexuellement j’espère?! 🤓<br>"},
+          text: "Sexuellement j’espère?! 🤓"},
         {
           me: true,
-          text: "Il arrive quand B ?<br>"
+          text: "Il arrive quand B ?"
         },
         {
           me: false,
@@ -3689,24 +3689,24 @@ var blocks = [
         },
         {
           me: false,
-          text: "Ok ok 😘<br>"},
+          text: "Ok ok 😘"},
         {
           me: true,
           text: "Peu à peu"
         },
         {
           me: false,
-          text: "Number 2 j’et jarrive 😂<br>"},
+          text: "Number 2 j’et jarrive 😂"},
         {
           me: true,
           text: "😛<br>  J’arrive"
         },
         {
           me: false,
-          text: " 🖤💙<br>"},
+          text: " 🖤💙"},
         {
           me: true,
-          text: "💙🖤<br>"
+          text: "💙🖤"
         },
       ],
 
@@ -3720,28 +3720,28 @@ var blocks = [
         },
         {
           me: false,
-          text: "Ca marche <br>Je te dis quand on termine 😘<br>  J’arrive 🤗<br>"},
+          text: "Ca marche <br>Je te dis quand on termine 😘<br>  J’arrive 🤗"},
         {
           me: true,
           text: "Ok je suis à l’hôtel"
         },
         {
           me: false,
-          text: "Ca marche <br>  C’est qui cette connasse qui plie des bateaux? 😂<br>  Je suis à 4e <br>  5*<br>  Je suis dehors <br>Je fume 😘<br>"},
+          text: "Ca marche <br>  C’est qui cette connasse qui plie des bateaux? 😂<br>  Je suis à 4e <br>  5*<br>  Je suis dehors <br>Je fume 😘"},
         {
           me: true,
           text: "Ouiii<br>  Deso"
         },
         {
           me: false,
-          text: "C’est moi <br>Deso <br>Tu es où? 😅<br>"},
+          text: "C’est moi <br>Deso <br>Tu es où? 😅"},
         {
           me: true,
           text: "J’étais en silencieux"
         },
         {
           me: false,
-          text: "Pas de soucis 😘<br>"},
+          text: "Pas de soucis 😘"},
         {
           me: true,
           text: "Je suis toujours dans l’hôtel"
@@ -3755,38 +3755,38 @@ var blocks = [
         },
         {
           me: false,
-          text: "Ok ok <br>Je suis juste dehors <br>  😘<br>  Take your time 🙂<br>  Je remonte chez toi 😬<br>A tout’<br>"},
+          text: "Ok ok <br>Je suis juste dehors <br>  😘<br>  Take your time 🙂<br>  Je remonte chez toi 😬<br>A tout’"},
         {
           me: true,
           text: "Ok beauté"
         },
         {
           me: false,
-          text: "😘<br>"},
+          text: "😘"},
         {
           me: true,
-          text: "💙🖤<br>"
+          text: "💙🖤"
         },
         {
           me: false,
-          text: "💙🖤<br>"},
+          text: "💙🖤"},
       ],
 
       [
         {
           me: true,
-          text: "Je viens d’arriver au N<br>"
+          text: "Je viens d’arriver au N"
         },
         {
           me: false,
-          text: "😂😂😂😂😂<br>"},
+          text: "😂😂😂😂😂"},
         {
           me: true,
-          text: "Ça finit à 7h30<br>"
+          text: "Ça finit à 7h30"
         },
         {
           me: false,
-          text: "😬<br>  Ben je serai là 😂<br>"},
+          text: "😬<br>  Ben je serai là 😂"},
         {
           me: true,
           text: "Mais j’irais sûrement pas jusqu’à la fin"
@@ -3796,19 +3796,19 @@ var blocks = [
           text: "Ça marche"},
         {
           me: true,
-          text: "Je te tiens au jus <br>  😛😘💙<br>"
+          text: "Je te tiens au jus <br>  😛😘💙"
         },
         {
           me: false,
-          text: "😘<br>  🖤🤓😬<br>"},
+          text: "😘<br>  🖤🤓😬"},
         
         {
           me: true,
-          text: "🖤<br>  Yes <br>  Au boulot !<br>"
+          text: "🖤<br>  Yes <br>  Au boulot !"
         },
         {
           me: false,
-          text: "💙<br>"},
+          text: "💙"},
         {
           me: true,
           text: "Et hop en Uber"
@@ -3818,17 +3818,17 @@ var blocks = [
       [
         {
           me: false,
-          text: "Il est super cool A! <br>On a bien discuté,<br>Il est chaud ;) <br>  Merci bébé <br>T’as assuré 😘<br>"},
+          text: "Il est super cool A! <br>On a bien discuté,<br>Il est chaud ;) <br>  Merci bébé <br>T’as assuré 😘"},
         {
           me: true,
-          text: "Top !<br>  I got your back 💙<br>"
+          text: "Top !<br>  I got your back 💙"
         },
         {
           me: false,
-          text: "I know <br>I don’t like it!<br><br><br>I’m loving loving loving it! 😂😘<br>"},
+          text: "I know <br>I don’t like it!<br><br><br>I’m loving loving loving it! 😂😘"},
         {
           me: true,
-          text: "Tu les rencontres à paris ou en banlieue ?<br>"
+          text: "Tu les rencontres à paris ou en banlieue ?"
         },
         {
           me: false,
@@ -3839,10 +3839,10 @@ var blocks = [
         },
         {
           me: false,
-          text: "😂😂😂je suis en train de saouler les copains avec ta chanson « i don’t like it ... I’m loving loving ... »<br>"},
+          text: "😂😂😂je suis en train de saouler les copains avec ta chanson « i don’t like it ... I’m loving loving ... »"},
         {
           me: true,
-          text: "😂<br>  💙<br>"
+          text: "😂<br>  💙"
         },
       ],
 
@@ -3856,7 +3856,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "Kweuool! 😘<br>"},
+          text: "Kweuool! 😘"},
         {
           me: true,
           text: "J’arrive à 23h05<br>  On mange ensemble ?<br>  Je passe chez moi déposer les affaires"
@@ -3866,11 +3866,11 @@ var blocks = [
           text: "Oui avec plaisir <br>  On rentre aussi"},
         {
           me: true,
-          text: "T’as de quoi cuisiner ? <br>  Ou dehors ?<br>"
+          text: "T’as de quoi cuisiner ? <br>  Ou dehors ?"
         },
         {
           me: false,
-          text: "J’ai de quoi cuisiner mais j’ai la flemme 😂<br>Je peux cuisiner demain <br>Je finirai plus tôt<br>  Ça te va? 😘<br>"},
+          text: "J’ai de quoi cuisiner mais j’ai la flemme 😂<br>Je peux cuisiner demain <br>Je finirai plus tôt<br>  Ça te va? 😘"},
       ],
 
       [
@@ -3883,10 +3883,10 @@ var blocks = [
         },
         {
           me: false,
-          text: "😂😂😂<br>"},
+          text: "😂😂😂"},
         {
           me: true,
-          text: "Faut vraiment que je prenne une douche <br>  😘<br>"
+          text: "Faut vraiment que je prenne une douche <br>  😘"
         },
         {
           me: false,
@@ -3904,10 +3904,10 @@ var blocks = [
         },
         {
           me: false,
-          text: "😘<br>"},
+          text: "😘"},
         {
           me: true,
-          text: "Mon dessin fait trop peur 😂<br>"
+          text: "Mon dessin fait trop peur 😂"
         },
         {
           me: false,
@@ -3934,18 +3934,18 @@ var blocks = [
           text: "<br>Atta <br>Je fais l’appel<br>Tu me raconteras ça 💋"},
         {
           me: true,
-          text: "Et t’avais une bête cheloue <br>  Il y avait *<br>"
+          text: "Et t’avais une bête cheloue <br>  Il y avait *"
         },
         {
           me: false,
-          text: "Ah oui?! <br>C’était moi ça! 😂<br>"},
+          text: "Ah oui?! <br>C’était moi ça! 😂"},
         {
           me: true,
-          text: "Nan c’était un perso de dessin animé <br>  Enfin peut être c’était toi 👌💙<br>  😂<br>"
+          text: "Nan c’était un perso de dessin animé <br>  Enfin peut être c’était toi 👌💙<br>  😂"
         },
         {
           me: false,
-          text: "Mmmh les animations de ton étudiant à l’école ...? 🤷🏽‍♂️<br>"},
+          text: "Mmmh les animations de ton étudiant à l’école ...? 🤷🏽‍♂️"},
       ],
 
       [
@@ -3954,7 +3954,7 @@ var blocks = [
           text: "Ah ouai carrément! <br>Nous on fait des storyboard de story Instagram pour un concours <br>Easy peazzy! 🤗<br>  Je me suis pris la tête avec L sinon ... mais rien de nouveau sous le soleil"},
         {
           me: true,
-          text: "?<br>  Bah le mec me dit hier soir qu’il a rien préparé pour auj<br>"
+          text: "?<br>  Bah le mec me dit hier soir qu’il a rien préparé pour auj"
         },
         {
           me: false,
@@ -3965,45 +3965,45 @@ var blocks = [
         },
         {
           me: false,
-          text: "Non c’est une chaussure 😂😂😂😂<br>  Merde je ne suis pas réveillé 😂🙈<br>  Les réveils doux <br>Les parties d’échecs .... nos matins vacanciers mes manquent 😂<br>"},
+          text: "Non c’est une chaussure 😂😂😂😂<br>  Merde je ne suis pas réveillé 😂🙈<br>  Les réveils doux <br>Les parties d’échecs .... nos matins vacanciers mes manquent 😂"},
         {
           me: true,
-          text: "💙<br>  On se fait un réveil doux très vite !<br>"
+          text: "💙<br>  On se fait un réveil doux très vite !"
         },
         {
           me: false,
-          text: "Ben vendredi c’est possible 💙🖤🤗<br>"},
+          text: "Ben vendredi c’est possible 💙🖤🤗"},
         {
           me: true,
-          text: "Ok vendredi 🙃<br>  Mais tu lui as répondu à L ?<br>"
+          text: "Ok vendredi 🙃<br>  Mais tu lui as répondu à L ?"
         },
         {
           me: false,
           text: "Je lui ai dit que j’allais en cours et que j’avais pas besoin qu’elle me gave dès le matin. <br>Voilà. <br>Je ne voulais pas répondre mais ça m’a soûlé"},
         {
           me: true,
-          text: "Ok baby<br>"
+          text: "Ok baby"
         },
       ],
 
       [
         {
           me: false,
-          text: "Termine!<br>J’ai deux trois trucs à régler et je viens chez toi?<br>Je veux m’allonger / patouille / câlin / sieste?<br>"},
+          text: "Termine!<br>J’ai deux trois trucs à régler et je viens chez toi?<br>Je veux m’allonger / patouille / câlin / sieste?"},
         {
           me: true,
-          text: "Yesssssss<br>  Yes <br>  And yes<br>  Again yes<br>  Yes Again<br>"
+          text: "Yesssssss<br>  Yes <br>  And yes<br>  Again yes<br>  Yes Again"
         },
         {
           me: false,
-          text: "🤗<br>  Ayé!<br>Je rentre 😘<br>"},
+          text: "🤗<br>  Ayé!<br>Je rentre 😘"},
         {
           me: true,
-          text: "Ok je me cache dans l’appart 😂<br>  Find me<br>"
+          text: "Ok je me cache dans l’appart 😂<br>  Find me"
         },
         {
           me: false,
-          text: "😂😂😂<br>  « On steak haché »<br>  La 6 puis la 5 <br>A 16h je suis là je pense (trop long!)<br>  1, 2, 3, 4, ... (va te cacher) 5, 6 ..<br>  😂<br>  23, 24, 25 ... (je suis bastille, t’es bien cachée?!) 30, 31 ...<br>"},
+          text: "😂😂😂<br>  « On steak haché »<br>  La 6 puis la 5 <br>A 16h je suis là je pense (trop long!)<br>  1, 2, 3, 4, ... (va te cacher) 5, 6 ..<br>  😂<br>  23, 24, 25 ... (je suis bastille, t’es bien cachée?!) 30, 31 ..."},
       ],
 
       [
@@ -4016,36 +4016,36 @@ var blocks = [
         },
         {
           me: false,
-          text: "😂😂😂<br>  Je ne dors pas encore ...<br>Le café sans doute <br>Mon corps complètement ré -articulé.<br><br>Je pense à toi jolie cœur 💙<br>🖤<br>  Zzz 😴 <br>💤 <br>😴 <br>💤 <br><br>"},
+          text: "😂😂😂<br>  Je ne dors pas encore ...<br>Le café sans doute <br>Mon corps complètement ré -articulé.<br><br>Je pense à toi jolie cœur 💙<br>🖤<br>  Zzz 😴 <br>💤 <br>😴 <br>💤 <br>"},
         {
           me: true,
           text: "Salut beauté"
         },
         {
           me: false,
-          text: "😂😂😂😂<br>Bravo! <br>12h de sommeil!<br><br>Je t’envie <br><br>Je suis en pause dej avec les collègues <br>Je t’appelle juste après 😘😘<br>"},
+          text: "😂😂😂😂<br>Bravo! <br>12h de sommeil!<br><br>Je t’envie <br><br>Je suis en pause dej avec les collègues <br>Je t’appelle juste après 😘😘"},
         
         {
           me: true,
-          text: "C’est quand après ?<br>"
+          text: "C’est quand après ?"
         },
         {
           me: false,
           text: "Avant 14h?"},
         {
           me: true,
-          text: "Ok 👌 <br>  💙🖤<br>"
+          text: "Ok 👌 <br>  💙🖤"
         },
         {
           me: false,
-          text: "💙🖤🖤💙<br>"},
+          text: "💙🖤🖤💙"},
         {
           me: true,
-          text: "🍑<br>"
+          text: "🍑"
         },
         {
           me: false,
-          text: "Tuuuuuu<br>Meuuuu<br>Manqueuuuu<br>"},
+          text: "Tuuuuuu<br>Meuuuu<br>Manqueuuuu"},
         {
           me: true,
           text: "🙃<br>  Ahhhh mais je te vois tard <br>  J’avais oublié <br>  Je réfléchissais sur les gens et les connexions"
@@ -4062,7 +4062,7 @@ var blocks = [
           text: "Cest un rêve prémonitoire ça! <br>Je marcherai partout avec toi 🖤💙<br>  J’ai terminé <br>Je viens chez toi?!"},
         {
           me: true,
-          text: "Ok <br>  Une partie d’échec<br>"
+          text: "Ok <br>  Une partie d’échec"
         },
         {
           me: false,
@@ -4073,20 +4073,20 @@ var blocks = [
         },
         {
           me: false,
-          text: "Presque chez toi <br>Puisque je suis à côté de chez moi <br>  Je veux ta chaleur <br>  Comme promis!<br>Au lit 💤<br><br>Travaille bien bébé! 😘💙🖤<br>"},
+          text: "Presque chez toi <br>Puisque je suis à côté de chez moi <br>  Je veux ta chaleur <br>  Comme promis!<br>Au lit 💤<br><br>Travaille bien bébé! 😘💙🖤"},
         {
           me: true,
-          text: "🖤💙<br>"
+          text: "🖤💙"
         },
       ],
 
       [
         {
           me: false,
-          text: "Donc cours jusqu’à 19h15 <br>*$$<br>  Mais après je vais avoir BESOIN de tes bras <br>  Genre BESOIN! <br>  Tu veux passer le chercher pour faire la route ensemble et marche main dans la main 👫 <br>  A cet emoji 😂<br>"},
+          text: "Donc cours jusqu’à 19h15 <br>*$$<br>  Mais après je vais avoir BESOIN de tes bras <br>  Genre BESOIN! <br>  Tu veux passer le chercher pour faire la route ensemble et marche main dans la main 👫 <br>  A cet emoji 😂"},
         {
           me: true,
-          text: "Je te dis ou j’en suis à 19h<br>  C’est ED ?<br>"
+          text: "Je te dis ou j’en suis à 19h<br>  C’est ED ?"
         },
         {
           me: false,
@@ -4104,14 +4104,14 @@ var blocks = [
         },
         {
           me: false,
-          text: "😬<br>"},
+          text: "😬"},
         
         {
           me: false,
           text: "Moi aussi <br>T’es parfaite <br>  Bon le projet A tombe à l’eau<br>  🤷<br>  Maybe better to focus on the residency"},
         {
           me: true,
-          text: "Ohhhhhhhhh<br>"
+          text: "Ohhhhhhhhh"
         },
         {
           me: false,
@@ -4122,7 +4122,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "WoW <br>Trop cool!<br>"},
+          text: "WoW <br>Trop cool!"},
       ],
 
       [
@@ -4135,21 +4135,21 @@ var blocks = [
         },
         {
           me: false,
-          text: "Tu ramènes ton vinaigre balsamique 🤗? <br>Je cuisine 😘<br>"},
+          text: "Tu ramènes ton vinaigre balsamique 🤗? <br>Je cuisine 😘"},
         {
           me: true,
           text: "Je dépose mon sac"
         },
         {
           me: false,
-          text: "👌<br>"},
+          text: "👌"},
         {
           me: true,
           text: "Et je viens chez toi <br>  Avec le balsamique <br>  Ok j’ai le balsamique <br>  J’arrive"
         },
         {
           me: false,
-          text: "Yeah! <br>  Tu vas kiffé!<br>Devine ce qu’on mange? 😅😂<br>"},
+          text: "Yeah! <br>  Tu vas kiffé!<br>Devine ce qu’on mange? 😅😂"},
         {
           me: true,
           text: "J’ai trop faim"
@@ -4162,116 +4162,116 @@ var blocks = [
       [
         {
           me: false,
-          text: "Okay <br>Chez moi dans 45min?<br>"},
+          text: "Okay <br>Chez moi dans 45min?"},
         {
           me: true,
-          text: "Ok<br>"
+          text: "Ok"
         },
         {
           me: false,
-          text: "😘<br>"},
+          text: "😘"},
         {
           me: true,
-          text: "🍑<br>  😛<br>  🔥<br>"
+          text: "🍑<br>  😛<br>  🔥"
         },
         {
           me: false,
-          text: "😂<br>  🖤🐷🐷💙<br>  Impression terminée ;)<br>"},
+          text: "😂<br>  🖤🐷🐷💙<br>  Impression terminée ;)"},
         {
           me: true,
           text: "Ok coquine <br>  Dis moi quand t’as le calque et je sors"
         },
         {
           me: false,
-          text: "Je sors des BA la 😘<br>"},
+          text: "Je sors des BA la 😘"},
         {
           me: true,
           text: "Ok <br>  Rdv au thaï"
         },
         {
           me: false,
-          text: "Ça marche<br>  J’y suis<br>Au fond <br>"},
+          text: "Ça marche<br>  J’y suis<br>Au fond "},
       ],
 
       [
         {
           me: true,
-          text: "Yo<br>"
+          text: "Yo"
         },
         {
           me: false,
-          text: "Hey <br>Ça va?<br>Je termine mon cours là 😘<br>"},
+          text: "Hey <br>Ça va?<br>Je termine mon cours là 😘"},
         
         {
           me: true,
-          text: "Ok <br>  Tu finis à 23?<br>"
+          text: "Ok <br>  Tu finis à 23?"
         },
         {
           me: false,
           text: "À peu près oui"},
         {
           me: true,
-          text: "T’as tout gagné ?<br>"
+          text: "T’as tout gagné ?"
         },
         {
           me: false,
-          text: "2-2<br>Mais j’ai changé des trucs <br>Tu es dispo?<br>"},
+          text: "2-2<br>Mais j’ai changé des trucs <br>Tu es dispo?"},
         {
           me: true,
-          text: "Je fais pipi<br>"
+          text: "Je fais pipi"
         },
         {
           me: false,
-          text: " Ok 😅<br>"},
+          text: " Ok 😅"},
         {
           me: true,
-          text: "Et ça va c’était bien les cours ?<br>"
+          text: "Et ça va c’était bien les cours ?"
         },
         {
           me: false,
-          text: "Le matin oui l’aprem j’étais pas dedans<br>"},
+          text: "Le matin oui l’aprem j’étais pas dedans"},
         {
           me: true,
           text: "Ah"
         },
         {
           me: false,
-          text: "Je pensais à toi<br>"},
+          text: "Je pensais à toi"},
         {
           me: true,
-          text: "Ouhhh<br>  J’ai tellement dormi <br>  😱<br>"
+          text: "Ouhhh<br>  J’ai tellement dormi <br>  😱"
         },
         {
           me: false,
           text: "Je pense oui"},
         {
           me: true,
-          text: "Tu pense que j’ai dormi ?<br>"
+          text: "Tu pense que j’ai dormi ?"
         },
         {
           me: false,
-          text: "Oui 🙂<br>"},
+          text: "Oui 🙂"},
         {
           me: true,
-          text: "That’s weird 😂<br>"
+          text: "That’s weird 😂"
         },
         {
           me: false,
-          text: "T’étais ko hier soir<br>"},
+          text: "T’étais ko hier soir"},
         {
           me: true,
           text: "Nan je me suis réveillée après"
         },
         {
           me: false,
-          text: "Ah <br>  Comment tu vas maintenant?<br>"},
+          text: "Ah <br>  Comment tu vas maintenant?"},
         {
           me: true,
           text: "Ca va<br>  J’ai pas mes règles"
         },
         {
           me: false,
-          text: "What?! 😱<br>"},
+          text: "What?! 😱"},
         {
           me: true,
           text: "Mais je sens qu’elles arrivent"
@@ -4288,7 +4288,7 @@ var blocks = [
       [
         {
           me: true,
-          text: "Bah tu me parles plus <br>  C’est nul<br>"
+          text: "Bah tu me parles plus <br>  C’est nul"
         },
         {
           me: false,
@@ -4299,17 +4299,17 @@ var blocks = [
         },
         {
           me: false,
-          text: "Qui bébé? <br>  Qui est nulle?<br>"},
+          text: "Qui bébé? <br>  Qui est nulle?"},
         {
           me: true,
           text: "Toi et ta grosse journée"
         },
         {
           me: false,
-          text: "😔<br>  Je ne sais plus quoi faire ... <br>  Je pensais que « ne pas te déranger » était là meilleur chose à faire... <br>  Tu me manques comme si tu étais au bout du monde <br>  Comment tu vas?<br>"},
+          text: "😔<br>  Je ne sais plus quoi faire ... <br>  Je pensais que « ne pas te déranger » était là meilleur chose à faire... <br>  Tu me manques comme si tu étais au bout du monde <br>  Comment tu vas?"},
         {
           me: true,
-          text: "Mytho <br>  T’es nul<br>  Mal<br>"
+          text: "Mytho <br>  T’es nul<br>  Mal"
         },
         {
           me: false,
@@ -4323,7 +4323,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "Mais comment?!!<br>"},
+          text: "Mais comment?!!"},
         {
           me: true,
           text: "En taillant des pipes"
@@ -4333,14 +4333,14 @@ var blocks = [
           text: "Bon après mon cours je passe te voir <br>  T’es la drôle <br>  Pas drôle<br>  Je vais en cours <br>  À plus tard"},
         {
           me: true,
-          text: "🍌<br>  En mâchant trop de bubble tea<br>  J’ai trop d’hormones <br>  J’en ai marre 😭😂<br>  Je passe de 😭 à 😂<br>"
+          text: "🍌<br>  En mâchant trop de bubble tea<br>  J’ai trop d’hormones <br>  J’en ai marre 😭😂<br>  Je passe de 😭 à 😂"
         },
         {
           me: false,
-          text: "Courage bébé😘<br>J’étais en réunion, je n’ai pas pu te répondre avant. <br>Si tu veux je passes te voir après mes cours pour prendre un soin de toi.<br>Comme tu veux (moi je veux)<br>"},
+          text: "Courage bébé😘<br>J’étais en réunion, je n’ai pas pu te répondre avant. <br>Si tu veux je passes te voir après mes cours pour prendre un soin de toi.<br>Comme tu veux (moi je veux)"},
         {
           me: true,
-          text: "C’est quand la fin des cours ?<br>"
+          text: "C’est quand la fin des cours ?"
         },
         {
           me: false,
@@ -4351,17 +4351,17 @@ var blocks = [
         },
         {
           me: false,
-          text: "Tu me dis.<br>Je me tiens à ta dispo 😘<br>  💙🖤<br>"},
+          text: "Tu me dis.<br>Je me tiens à ta dispo 😘<br>  💙🖤"},
         {
           me: true,
-          text: "💩 <br>  Ok ok <br>  Après les cours <br>  👹<br>"
+          text: "💩 <br>  Ok ok <br>  Après les cours <br>  👹"
         },
       ],
 
       [
         {
           me: false,
-          text: "😂<br>  J’ai terminé.<br><br>Je passe te voir?<br>"},
+          text: "😂<br>  J’ai terminé.<br><br>Je passe te voir?"},
         {
           me: true,
           text: "Ok <br>  Caca"
@@ -4371,11 +4371,11 @@ var blocks = [
           text: "Si c’est pour me traiter de caca...<br>Je vais pas rester longtemps hein"},
         {
           me: true,
-          text: "Toi toi toi <br>  Tu m’emmerde à tout prendre pour toi <br>  Je vais pas bien <br>  J’ai mes hormones furax<br>  J’ai la mâchoire bloquée <br>  Et tu me réponds ça parce que je dis caca ?<br>  Et bah non merci <br>  Faut que je tombe dans les pommes pour un peu d’attention?<br>  Et bim traitement par le silence <br>  Merci D !<br>"
+          text: "Toi toi toi <br>  Tu m’emmerde à tout prendre pour toi <br>  Je vais pas bien <br>  J’ai mes hormones furax<br>  J’ai la mâchoire bloquée <br>  Et tu me réponds ça parce que je dis caca ?<br>  Et bah non merci <br>  Faut que je tombe dans les pommes pour un peu d’attention?<br>  Et bim traitement par le silence <br>  Merci D !"
         },
         {
           me: false,
-          text: "J’arrive <br>  Je serai là dans 20min<br>"},
+          text: "J’arrive <br>  Je serai là dans 20min"},
       ],
 
       [
@@ -4388,25 +4388,25 @@ var blocks = [
           text: "Oh 😍<br>En bien?!"},
         {
           me: true,
-          text: "Oui <br>  😛<br>"
+          text: "Oui <br>  😛"
         },
         {
           me: false,
-          text: "On va aller dîner au jap ensuite <br>Tu viens?<br>"},
+          text: "On va aller dîner au jap ensuite <br>Tu viens?"},
         {
           me: true,
           text: "Au japonais 😂 <br>  Je sais pas"
         },
         {
           me: false,
-          text: "C’est pas G G 😂<br>"},
+          text: "C’est pas G G 😂"},
         {
           me: true,
           text: "Je me réveille"
         },
         {
           me: false,
-          text: "Ok 😘<br>Ou on se voit après <br>  Juste toi et moi 😅<br><br>"},
+          text: "Ok 😘<br>Ou on se voit après <br>  Juste toi et moi 😅<br>"},
       ],
 
       [
@@ -4416,10 +4416,10 @@ var blocks = [
         },
         {
           me: false,
-          text: "Bonjour 😘<br>"},
+          text: "Bonjour 😘"},
         {
           me: true,
-          text: "😝🔥<br>"
+          text: "😝🔥"
         },
         {
           me: false,
@@ -4430,58 +4430,58 @@ var blocks = [
         },
         {
           me: false,
-          text: "😂😂😂😂<br>Traite moi de petit! 😂<br><br>Non! C’est cool <br>J’adore mettre tes t-shirt 😅<br>  😘<br>"},
+          text: "😂😂😂😂<br>Traite moi de petit! 😂<br><br>Non! C’est cool <br>J’adore mettre tes t-shirt 😅<br>  😘"},
         {
           me: true,
-          text: "Wesh<br>  C’est moi que tu traites de petite <br>  Juste dommage qu’on ait pas la même pointure de chaussures 😂<br>"
+          text: "Wesh<br>  C’est moi que tu traites de petite <br>  Juste dommage qu’on ait pas la même pointure de chaussures 😂"
         },
         {
           me: false,
-          text: "😬<br>"},
+          text: "😬"},
       ],
 
       [
         {
           me: true,
-          text: "Mais désolé pour mon message de mercredi<br>  Qui était froid 🥶<br>"
+          text: "Mais désolé pour mon message de mercredi<br>  Qui était froid 🥶"
         },
         {
           me: false,
-          text: "C’est oublié 😘 <br>"},
+          text: "C’est oublié 😘 "},
       ],
 
       [
         {
           me: false,
-          text: "Tu as eu tes règles?<br>"},
+          text: "Tu as eu tes règles?"},
         {
           me: true,
-          text: "Naaaah<br>"
+          text: "Naaaah"
         },
         {
           me: false,
-          text: "🤔<br>"},
+          text: "🤔"},
         {
           me: true,
           text: "Par contre j’ai envie de carbonara<br>  Et j’ai regardé la pleine lune pour me transformer en loup garou"
         },
         {
           me: false,
-          text: "Ahahaha <br>Que tu feras aujourd’hui <br>Ou que tu me laisses te cuisiner genre demain <br>Cette fois-ci la vrai recette<br>"},
+          text: "Ahahaha <br>Que tu feras aujourd’hui <br>Ou que tu me laisses te cuisiner genre demain <br>Cette fois-ci la vrai recette"},
         {
           me: true,
-          text: "Deaaaal<br>  You are so sexy<br>"
+          text: "Deaaaal<br>  You are so sexy"
         },
         {
           me: false,
-          text: "Hehe <br>  You too babe 😘<br>"},
+          text: "Hehe <br>  You too babe 😘"},
         {
           me: true,
-          text: "You turn me on<br>"
+          text: "You turn me on"
         },
         {
           me: false,
-          text: "😱💋<br>"},
+          text: "😱💋"},
         {
           me: true,
           text: "L’amour c’est fort comme drogue"
@@ -4491,38 +4491,38 @@ var blocks = [
       [
         {
           me: true,
-          text: "Easy baby<br>  Par contre <br>  Fait gaffe <br>  T’es genoux<br>  Ils sont sexy<br>"
+          text: "Easy baby<br>  Par contre <br>  Fait gaffe <br>  T’es genoux<br>  Ils sont sexy"
         },
         {
           me: false,
           text: "Ahahahaha"},
         {
           me: true,
-          text: "😝<br>"
+          text: "😝"
         },
         {
           me: false,
-          text: "Ta faute de français crée du sens <br>Tes genoux / t’es genoux 😬😘😘<br>"},
+          text: "Ta faute de français crée du sens <br>Tes genoux / t’es genoux 😬😘😘"},
         {
           me: true,
           text: "I know"
         },
         {
           me: false,
-          text: "😊<br>"},
+          text: "😊"},
         {
           me: true,
           text: "I’m a poet"
         },
         {
           me: false,
-          text: "Very smart <br>I approved 🤗<br>"},
+          text: "Very smart <br>I approved 🤗"},
       ],
 
       [
         {
           me: true,
-          text: "Ok donc au plus tard <br>  Il doivent te payer le 17 mars<br>"
+          text: "Ok donc au plus tard <br>  Il doivent te payer le 17 mars"
         },
         {
           me: false,
@@ -4533,24 +4533,24 @@ var blocks = [
         },
         {
           me: false,
-          text: "Donc un mail de rappel déjà, aujourd’hui ou demain serait pas « impoli » et d’appeler R demain au plus tard serait justifié<br>"},
+          text: "Donc un mail de rappel déjà, aujourd’hui ou demain serait pas « impoli » et d’appeler R demain au plus tard serait justifié"},
         {
           me: true,
           text: "Bah la carte des visites de P je suis pas sure qu’il faille l’utiliser <br>  Pour ça"
         },
         {
           me: false,
-          text: "Non non tkt <br>C’est juste que je veux faire du shopping 😂<br>"},
+          text: "Non non tkt <br>C’est juste que je veux faire du shopping 😂"},
         {
           me: true,
           text: "Dans tous les cas tu dois être payé"
         },
         {
           me: false,
-          text: "Dans une semaine ils le seront<br>"},
+          text: "Dans une semaine ils le seront"},
         {
           me: true,
-          text: "Et tu peux gueuler sans autres menaces <br>  Parce qu’ils sont en retard, si ils se mettent en retard<br>"
+          text: "Et tu peux gueuler sans autres menaces <br>  Parce qu’ils sont en retard, si ils se mettent en retard"
         },
         {
           me: false,
@@ -4561,7 +4561,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "Je sais....<br>Je suis trop C o n 😔😑<br>"},
+          text: "Je sais....<br>Je suis trop C o n 😔😑"},
         {
           me: true,
           text: "T’attends rien en retour"
@@ -4582,37 +4582,37 @@ var blocks = [
         },
         {
           me: false,
-          text: "Nah <br>T’es la meilleure c’est tout 😘<br>"},
+          text: "Nah <br>T’es la meilleure c’est tout 😘"},
         {
           me: true,
           text: "I know <br>  And you are so lucky<br>  😝<br>  Mais bon je vais pas me plaindre <br>  J’ai des carbo demain 😂<br>  Kiss kiss"
         },
         {
           me: false,
-          text: "Oui!!!!<br>"},
+          text: "Oui!!!!"},
       ],
 
       [
         {
           me: true,
-          text: "Tu t’es branle dans les chiottes <br>  Et tu m’envoies la photo ?<br>"
+          text: "Tu t’es branle dans les chiottes <br>  Et tu m’envoies la photo ?"
         },
         {
           me: false,
           text: "😂😂😂<br>  Number 2"},
         {
           me: true,
-          text: "Okeeee <br>  Bon bah t’as brisé un tabou <br>  La photo du caca <br>  😂<br>  CAN i unsee that ?!<br>"
+          text: "Okeeee <br>  Bon bah t’as brisé un tabou <br>  La photo du caca <br>  😂<br>  CAN i unsee that ?!"
         },
       ],
 
       [
         {
           me: false,
-          text: "💙🖤🤸🏻‍♀️<br>  😘<br>"},
+          text: "💙🖤🤸🏻‍♀️<br>  😘"},
         {
           me: true,
-          text: "🖤<br>  😂<br>  Ça y est tu fais l’acrobate ?<br>  Oh le mytho il a pas mal au dooooooos<br>  Tout ça pour ne pas se mettre au dessus quand on fait crack crack 😛<br>"
+          text: "🖤<br>  😂<br>  Ça y est tu fais l’acrobate ?<br>  Oh le mytho il a pas mal au dooooooos<br>  Tout ça pour ne pas se mettre au dessus quand on fait crack crack 😛"
         },
         {
           me: false,
@@ -4626,10 +4626,10 @@ var blocks = [
       [
         {
           me: false,
-          text: "Oh!<br><br>Ps: tout le monde dit que j’ai des petits yeux alors j’ai cafté et j’ai dit que c’était de ta faute nah! <br>😂😂😂<br>Ils sont morts de rire et t’adore déjà!<br>"},
+          text: "Oh!<br><br>Ps: tout le monde dit que j’ai des petits yeux alors j’ai cafté et j’ai dit que c’était de ta faute nah! <br>😂😂😂<br>Ils sont morts de rire et t’adore déjà!"},
         {
           me: true,
-          text: "😂<br>  Et voilà <br>  Tu bitches enfin sur moi 😛<br>"
+          text: "😂<br>  Et voilà <br>  Tu bitches enfin sur moi 😛"
         },
         {
           me: false,
@@ -4639,11 +4639,11 @@ var blocks = [
       [
          {
           me: true,
-          text: "🍌<br>  Alors j’hésite à t’envoyer mon écrit de ce matin<br>"
+          text: "🍌<br>  Alors j’hésite à t’envoyer mon écrit de ce matin"
         },
         {
           me: false,
-          text: "Ah...<br>Je le lirai si tu l’envois<br>C’est début 2020 ou c’est à propos de hier soir?<br>"},
+          text: "Ah...<br>Je le lirai si tu l’envois<br>C’est début 2020 ou c’est à propos de hier soir?"},
         {
           me: true,
           text: "C’est ce à quoi je pensais ce matin<br>  C’est sur toi"
@@ -4657,14 +4657,14 @@ var blocks = [
         },
         {
           me: false,
-          text: "Peut-être. <br>  Alors ne l’envoie pas.<br>Ma journée est longue. <br>  Et tu prends bcp d’espace dans ma tête. <br><br>"},
+          text: "Peut-être. <br>  Alors ne l’envoie pas.<br>Ma journée est longue. <br>  Et tu prends bcp d’espace dans ma tête. <br>"},
         {
           me: true,
           text: "Et puis tu mets des points à tes phrases <br>  T’es déjà vénère"
         },
         {
           me: false,
-          text: "J’ai un entretien après. <br>  Oui un peu vénère.<br>  Laisse- moi tranquille. <br>On se capte plus tard.<br>"},
+          text: "J’ai un entretien après. <br>  Oui un peu vénère.<br>  Laisse- moi tranquille. <br>On se capte plus tard."},
       ],
 
       [
@@ -4674,24 +4674,24 @@ var blocks = [
         },
         {
           me: false,
-          text: "I love you babe 🖤💙<br>"},
+          text: "I love you babe 🖤💙"},
       ],
 
       [
         {
           me: true,
-          text: "Ça va ?<br>"
+          text: "Ça va ?"
         },
         {
           me: false,
           text: "Hey <br>On dîne avec Bruno.<br>Tu en es où toi?"},
         {
           me: true,
-          text: "Je vais bientôt rentrer <br>  Ca va t’as le moral ?<br>"
+          text: "Je vais bientôt rentrer <br>  Ca va t’as le moral ?"
         },
         {
           me: false,
-          text: "Cool. <br>Oui ça va. <br><br>"},
+          text: "Cool. <br>Oui ça va. <br>"},
         {
           me: true,
           text: "Ok"
@@ -4705,7 +4705,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "30-40min.<br>Si tu dors <br>Je viens juste te faire un bisous?<br>(J’en ai très envie) (sans ponctuation)<br>"},
+          text: "30-40min.<br>Si tu dors <br>Je viens juste te faire un bisous?<br>(J’en ai très envie) (sans ponctuation)"},
       ],
 
       [
@@ -4714,31 +4714,31 @@ var blocks = [
           text: "Oops <br>Ma poche t’a appelé"},
         {
           me: true,
-          text: "Elle est coquine y’a poche <br>  Ta *<br>"
+          text: "Elle est coquine y’a poche <br>  Ta *"
         },
         {
           me: false,
-          text: "<br>🤗🙈🤷<br>"},
+          text: "<br>🤗🙈🤷"},
       ],
 
       [
          {
           me: false,
-          text: "Han...<br>Ok <br>Si tu préfères 😘<br>J’ai encore bcp de travail « relou » à faire.<br>Je vais avancer.<br><br>Ça va toi? <br><br>😘<br>"},
+          text: "Han...<br>Ok <br>Si tu préfères 😘<br>J’ai encore bcp de travail « relou » à faire.<br>Je vais avancer.<br><br>Ça va toi? <br><br>😘"},
         {
           me: true,
-          text: "Ouai ouai <br>  Tu me fais des paragraphes 🙃<br>"
+          text: "Ouai ouai <br>  Tu me fais des paragraphes 🙃"
         },
         {
           me: false,
-          text: "Ok ok 😬😘<br>Je t’écrirai mi amor <br>Prend soin de toi et fume à ta fenêtre. C’est pas trop safe la rue M 😘<br>"},
+          text: "Ok ok 😬😘<br>Je t’écrirai mi amor <br>Prend soin de toi et fume à ta fenêtre. C’est pas trop safe la rue M 😘"},
         {
           me: true,
-          text: "Bah t’inquiète pas <br>  Je connais les voisins 😉<br>"
+          text: "Bah t’inquiète pas <br>  Je connais les voisins 😉"
         },
         {
           me: false,
-          text: "Bah un peu... <br>tu les connais mais ils sont chelous 🙈<br>"},
+          text: "Bah un peu... <br>tu les connais mais ils sont chelous 🙈"},
         {
           me: true,
           text: "Jajaja <br>  Tellement"
@@ -4759,21 +4759,21 @@ var blocks = [
       [
         {
           me: false,
-          text: "😘😘😘😘<br>  💙🥔<br>  Coucou bébé ça va?! <br>Tu dois encore dormir!<br>Première partie du cours terminé.<br><br>Pense à toi 😘<br>"},
+          text: "😘😘😘😘<br>  💙🥔<br>  Coucou bébé ça va?! <br>Tu dois encore dormir!<br>Première partie du cours terminé.<br><br>Pense à toi 😘"},
         {
           me: true,
-          text: "Yo <br>  Bébé??? <br>  😱😂<br>  Ok cool <br>  Je peux venir bosser ?<br>"
+          text: "Yo <br>  Bébé??? <br>  😱😂<br>  Ok cool <br>  Je peux venir bosser ?"
         },
         {
           me: false,
           text: "Viens!!! <br><br>  Oui!!!!<br>  TU ME MANQUES <br>  VIENS VIENS VIENS"},
         {
           me: true,
-          text: "Ok j’arrive <br>  Du café ?<br>"
+          text: "Ok j’arrive <br>  Du café ?"
         },
         {
           me: false,
-          text: "JEN AI !<br>Et il est prêt si tu fonces 😬<br>  Tu me ramèneras des slips propres 😂<br>"},
+          text: "JEN AI !<br>Et il est prêt si tu fonces 😬<br>  Tu me ramèneras des slips propres 😂"},
         {
           me: true,
           text: "Omg 😆 <br>  Je pars"
@@ -4787,14 +4787,14 @@ var blocks = [
         },
         {
           me: false,
-          text: "Oui! <br>Et toi?<br><br>Du boulot <br>Du rire en vidéo <br>Et du Magic Skype avec Bruno <br>La je bosse encore <br><br><br>"},
+          text: "Oui! <br>Et toi?<br><br>Du boulot <br>Du rire en vidéo <br>Et du Magic Skype avec Bruno <br>La je bosse encore <br><br>"},
         {
           me: true,
           text: "Yep<br>  Ok <br>  Bon boulot"
         },
         {
           me: false,
-          text: "Et toi?! <br>Rahhhhh <br>T’es relou quand tu veux!!!<br><br>Et toi?! <br><br>"},
+          text: "Et toi?! <br>Rahhhhh <br>T’es relou quand tu veux!!!<br><br>Et toi?! <br>"},
         {
           me: true,
           text: "Tu fais jamais le premier pas <br>  Et tout ce qu’on s’est dit tu le fait jamais"
@@ -4804,11 +4804,11 @@ var blocks = [
           text: "Really?! 😩<br>Faut vraiment faire les comptes là? <br><br>Bon....<br><br>Bonne soirée"},
         {
           me: true,
-          text: "Lol<br>  Facile de partir de la conversation 👌<br>"
+          text: "Lol<br>  Facile de partir de la conversation 👌"
         },
         {
           me: false,
-          text: "Ben ... je voulais une vrai conversation pas des textos où on va pas encore se comprendre! <br><br><br>  Hier tu es parti <br>Tu m’écris à 1h30 du mat <br>.... « c’est la faute de ton médoc! »<br>"},
+          text: "Ben ... je voulais une vrai conversation pas des textos où on va pas encore se comprendre! <br><br><br>  Hier tu es parti <br>Tu m’écris à 1h30 du mat <br>.... « c’est la faute de ton médoc! »"},
         {
           me: true,
           text: "Et moi je veux pas de call <br>  Et je pars en pleine crise de panique <br>  Et t’es incapable d’envoyer un texto"
@@ -4818,7 +4818,7 @@ var blocks = [
           text: "Ensuite message cette aprem « ça va mieux » <br><br>S U P E R ! <br><br>Oui tu es une experte en com! <br>  Crise de panique?! <br>Caprice!? <br>Je sais plus K! Je sais jamais en faites"},
         {
           me: true,
-          text: "Ok<br>"
+          text: "Ok"
         },
         {
           me: false,
@@ -4835,7 +4835,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "Près! 😂<br>"},
+          text: "Près! 😂"},
         {
           me: true,
           text: "Je te prestidigitation"
@@ -4845,14 +4845,14 @@ var blocks = [
           text: "Je te magiquement"},
         {
           me: true,
-          text: "Tu vas dormir ?<br>"
+          text: "Tu vas dormir ?"
         },
         {
           me: false,
           text: "Je suis au lit <br>  Ça va?"},
         {
           me: true,
-          text: "Oui oui je commence <br>"
+          text: "Oui oui je commence "
         },
         {
           me: false,
@@ -4873,35 +4873,35 @@ var blocks = [
         },
         {
           me: false,
-          text: "Tu veux bien chez moi pour un café? Je ne sortirai pas aujourd’hui.Je suis navré 😔. Je finis ce paragraphe et je dois gérer ma présentation au C demain. (Dessins / vidéo, j’espère) en ligne<br>"},
+          text: "Tu veux bien chez moi pour un café? Je ne sortirai pas aujourd’hui.Je suis navré 😔. Je finis ce paragraphe et je dois gérer ma présentation au C demain. (Dessins / vidéo, j’espère) en ligne"},
         {
           me: true,
-          text: "Ok <br>  Je te laisse finir ton paragraphe <br>  Dans genre une heure ?<br>  Ou now ?<br>"
+          text: "Ok <br>  Je te laisse finir ton paragraphe <br>  Dans genre une heure ?<br>  Ou now ?"
         },
         {
           me: false,
-          text: "Avant que je dessine, c’est pas mal dans une heure. Sinon je te propose de pas faire de pause pour moi. Mais demain après 20h Si ton déjeuné c’est mon dîner. Je t’invite et je cuisine ;). Je ferai une VRAI pause demain soir.Déjeuner*<br>"},
+          text: "Avant que je dessine, c’est pas mal dans une heure. Sinon je te propose de pas faire de pause pour moi. Mais demain après 20h Si ton déjeuné c’est mon dîner. Je t’invite et je cuisine ;). Je ferai une VRAI pause demain soir.Déjeuner*"},
         {
           me: true,
           text: "Donc non pas dans une heure ? <br>  Ok mais me dit pas oui pour me dire non après"
         },
         {
           me: false,
-          text: "Si viens!!!! <br>Mais ça sera rapide (un café et je retourne bosser 🙃)<br>"},
+          text: "Si viens!!!! <br>Mais ça sera rapide (un café et je retourne bosser 🙃)"},
         {
           me: true,
-          text: "😛<br>  Putain t’es incompréhensible gros 😂<br>"
+          text: "😛<br>  Putain t’es incompréhensible gros 😂"
         },
         {
           me: false,
           text: "Après si tu veux squatter un peu tu peux"},
         {
           me: true,
-          text: "Mais je viens maintenant ?<br>"
+          text: "Mais je viens maintenant ?"
         },
         {
           me: false,
-          text: "Allez! <br>Viens <br>  😘<br>"},
+          text: "Allez! <br>Viens <br>  😘"},
         {
           me: true,
           text: "Ok ok je me brosse les dents 🦷"
@@ -4911,7 +4911,7 @@ var blocks = [
           text: "Cool!"},
         {
           me: true,
-          text: "😂<br>  💙<br>"
+          text: "😂<br>  💙"
         },
         {
           me: false,
@@ -4922,28 +4922,28 @@ var blocks = [
       [
         {
           me: true,
-          text: "🥑  🥓<br>  Putain j’avais envie de burger hier<br>  😂<br>"
+          text: "🥑  🥓<br>  Putain j’avais envie de burger hier<br>  😂"
         },
         {
           me: false,
-          text: "J’ai failli m’en commander un là <br>  Et je vais le faire!!!<br>Merci!<br>Tu as injecté cette idée dans ma tête 😂<br>"},
+          text: "J’ai failli m’en commander un là <br>  Et je vais le faire!!!<br>Merci!<br>Tu as injecté cette idée dans ma tête 😂"},
         {
           me: true,
-          text: "J’ai  faim<br>  En fait j’ai pas faim quand on se fait la gueule 😂<br>"
+          text: "J’ai  faim<br>  En fait j’ai pas faim quand on se fait la gueule 😂"
         },
         {
           me: false,
-          text: "😂😂😂<br>"},
+          text: "😂😂😂"},
         {
           me: true,
-          text: "Et pouff dès que ça va mieux <br>  J’ai une faim de loup<br>"
+          text: "Et pouff dès que ça va mieux <br>  J’ai une faim de loup"
         },
         {
           me: false,
           text: "Hahahaha <br>  Moi c’est l’inverse <br>Je mange quand je boude toute la journée"},
         {
           me: true,
-          text: "Tu manges les émotions <br>  T’as vu que le piton de la fournaise est en éruption ?<br>"
+          text: "Tu manges les émotions <br>  T’as vu que le piton de la fournaise est en éruption ?"
         },
         {
           me: false,
@@ -4960,7 +4960,7 @@ var blocks = [
       [
         {
           me: false,
-          text: "Ca marche <br>  Bon allez je me motive <br>  Tu Ramènes le café?<br>"},
+          text: "Ca marche <br>  Bon allez je me motive <br>  Tu Ramènes le café?"},
         {
           me: true,
           text: "💙🥔🍑<br>  Nope"
@@ -4974,7 +4974,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "Fallait me le dire <br>J’ai des sous <br>  Tkt <br>  Rejoins moi à la maison <br>On ira faire des courses ensemble.<br>Tu choisiras tes céréales 😘<br>"},
+          text: "Fallait me le dire <br>J’ai des sous <br>  Tkt <br>  Rejoins moi à la maison <br>On ira faire des courses ensemble.<br>Tu choisiras tes céréales 😘"},
         {
           me: true,
           text: "J’ai dit nope 😂<br>  Yes yes je marche seul <br>  Dans les rues <br>  Bla-bla-bla"
@@ -5004,32 +5004,32 @@ var blocks = [
       [
         {
           me: true,
-          text: "Café ?<br>"
+          text: "Café ?"
         },
         {
           me: false,
-          text: "Après oui <br>  Vers 16h-16h30<br>"},
+          text: "Après oui <br>  Vers 16h-16h30"},
         {
           me: true,
-          text: "Je serais en rdv<br>"
+          text: "Je serais en rdv"
         },
         {
           me: false,
-          text: "Le 1er mai?<br>Ok <br>Ben je voulais dormir pour que mon mal de tête passe<br>  Ca a été ton rdv?<br>"},
+          text: "Le 1er mai?<br>Ok <br>Ben je voulais dormir pour que mon mal de tête passe<br>  Ca a été ton rdv?"},
         {
           me: true,
           text: "Yes j’ai pas fini"
         },
         {
           me: false,
-          text: "Ok! <br>Je reprends le tournois j’ai qques games ce soir<br>"},
+          text: "Ok! <br>Je reprends le tournois j’ai qques games ce soir"},
         {
           me: true,
-          text: "Ok moi j’ai fini <br>  Je rentre <br>  Tu voulais qu’on se voit ce soir ou t’es en mode magic toute la nuit ?<br>"
+          text: "Ok moi j’ai fini <br>  Je rentre <br>  Tu voulais qu’on se voit ce soir ou t’es en mode magic toute la nuit ?"
         },
         {
           me: false,
-          text: "La je joue oui <br>Je ne sais pas quand je termine <br>Mais je t’appelle après <br>C t quoi ton rdv? 🤔🤓😅<br>"},
+          text: "La je joue oui <br>Je ne sais pas quand je termine <br>Mais je t’appelle après <br>C t quoi ton rdv? 🤔🤓😅"},
         {
           me: true,
           text: "Ok donc t’es en mode Magic toute la soirée <br>  Business"
@@ -5054,10 +5054,10 @@ var blocks = [
         },
         {
           me: false,
-          text: "Hey<br>Je pensais à toi <br>Ça va moyen pour être honnête.<br><br>Et toi?<br>"},
+          text: "Hey<br>Je pensais à toi <br>Ça va moyen pour être honnête.<br><br>Et toi?"},
         {
           me: true,
-          text: "Ça va <br>  Journée lessive <br>  Et ménage <br>  Je continue à éradiquer <br>  Qu’est ce qui va pas ?<br>"
+          text: "Ça va <br>  Journée lessive <br>  Et ménage <br>  Je continue à éradiquer <br>  Qu’est ce qui va pas ?"
         },
         {
           me: false,
@@ -5065,11 +5065,11 @@ var blocks = [
         },
         {
           me: true,
-          text: "J’ai 40 min de break je peux passer prendre des chaussettes ?<br>"
+          text: "J’ai 40 min de break je peux passer prendre des chaussettes ?"
         },
         {
           me: false,
-          text: "Ouai vas-y!<br>Tu arrives tout de suite?<br>"},
+          text: "Ouai vas-y!<br>Tu arrives tout de suite?"},
         {
           me: true,
           text: "Je mets les trucs dans le séchage"
@@ -5097,14 +5097,14 @@ var blocks = [
       [
         {
           me: true,
-          text: "Cool merci <br>  T’es dispo ce soir pour qu’on s’appelle ?<br>"
+          text: "Cool merci <br>  T’es dispo ce soir pour qu’on s’appelle ?"
         },
         {
           me: false,
-          text: "Pas dispo avant lundi.<br>"},
+          text: "Pas dispo avant lundi."},
         {
           me: true,
-          text: "Ok cool 👍 <br>  Tu pars en week-end?<br>"
+          text: "Ok cool 👍 <br>  Tu pars en week-end?"
         },
         {
           me: false,
@@ -5114,11 +5114,11 @@ var blocks = [
       [
         {
           me: true,
-          text: "Hello D, j’annule pour demain désolée. J’ai besoin de temps. Bonne soirée<br>"
+          text: "Hello D, j’annule pour demain désolée. J’ai besoin de temps. Bonne soirée"
         },
         {
           me: false,
-          text: "Pas de soucis.<br><br>C’est pareil pour moi<br>"
+          text: "Pas de soucis.<br><br>C’est pareil pour moi"
         },
       ],
 
@@ -5140,7 +5140,7 @@ var blocks = [
         },
         {
           me: false,
-          text: "Ok si c’est chaud demain c’est même mieux pour moi<br>"},
+          text: "Ok si c’est chaud demain c’est même mieux pour moi"},
         {
           me: true,
           text: "J’ai pas dit que c’était chaud"
@@ -5150,7 +5150,7 @@ var blocks = [
           text: "    Ok"},
         {
           me: true,
-          text: "Je peux être dispo plus tôt <br>  Ça t’intéresse ?<br>"
+          text: "Je peux être dispo plus tôt <br>  Ça t’intéresse ?"
         },
         {
           me: false,

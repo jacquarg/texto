@@ -7,6 +7,7 @@
 
 
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Infant&family=Mukta&display=swap" rel="stylesheet"> 
+    <!--link href="https://fonts.googleapis.com/css2?family=Cormorant+Infant&family=Mukta&display=swap" rel="stylesheet"--> 
 
 
     <style>
@@ -61,9 +62,9 @@
 
 
       .mySms, .itSms {
-        min-width: 150px;
+        /*min-width: 150px;*/
         max-width: 220px;
-        font-family: 'Mukta', sans-serif;
+        font-family: helvetica; /*'Mukta', sans-serif;*/
         font-size: 14pt;
         padding: 7px 15px;
         margin-bottom: 10px;
@@ -71,9 +72,15 @@
         display: inline-block;
       }
 
+      .emoji {
+        font-size: 36pt;
+        background: rgba(0, 0, 0, 0) !important;
+        padding: 0 15px; !important;
+      }
+
 
       .mySms {
-        background-color: #6cd56e;
+        background-color: rgb(24, 137, 254);
         color: white;
       }
 
@@ -137,7 +144,7 @@
         .explanations > .content {
           height: 325px;
           margin-left: 30px;
-        margin-right: 30px;
+          margin-right: 30px;
         }
       }
 
@@ -190,19 +197,15 @@
     </div>
 <!-- CDC 
   TODO: 
-    * emoji : si emojy seul, pas de bulle colorée taille custo tripple ... (double /  ?)
-    * bulle : pas de taille min, adapte au text.
-    * taille max : ~ 36 charactères
-    * bleu : rgb(24, 137, 254)
+    V emoji : si emojy seul, pas de bulle colorée taille custo tripple ... (double /  ?)
+    V bulle : pas de taille min, adapte au text.
+    N taille max : ~ 36 charactères
+    V bleu : rgb(24, 137, 254)
 
     * en mode xs : en bas, pseudo interface de creation de message pour porter le titre 
     *  
     
-  
-    
 
-  * améliorations style explicatons.  
-  * animations
 
   * test multi devices
   
@@ -233,13 +236,20 @@
       var displayedElements = []
       function appendSms(message) {
         var rand = getRandomInt(10)
-        
+      
+        var isJustEmoji = message.text.match(/\s/g) == null && isEmoji(message.text)
+
         var prefix = (message.me) ? 'my' : 'it'
 
         // var html = '<div class="' + prefix + 'SmsLine"><div class="' + prefix + 'Sms">' + message.text + '</div></div>'
         // document.getElementById('smsList').insertAdjacentHTML('afterbegin', html)
         
-        var html = '<div class="' + prefix + 'Sms">' + message.text + '</div>'
+        var html = '<div class="' + prefix + 'Sms'
+        if (isJustEmoji) {
+          html += ' emoji '
+        }
+
+        html += '">' + message.text + '</div>'
 
         var element = document.createElement('div')
         element.className = prefix + 'SmsLine'
@@ -295,13 +305,11 @@
       }
 
       function stopFlood() {
-        console.log("toto")
         if (countDownId == null) {
-          console.log("toto2")
           clearTimeout(floodId)
           count = 5
 
-          doCountDown()
+        //  doCountDown()
         }
       }
 
@@ -337,6 +345,17 @@
       // Tools
       function getRandomInt(max) {
         return Math.floor(Math.random() * Math.floor(max))
+      }
+
+      function isEmoji(str) {
+          var ranges = [
+              '(?:[\u2700-\u27bf]|(?:\ud83c[\udde6-\uddff]){2}|[\ud800-\udbff][\udc00-\udfff]|[\u0023-\u0039]\ufe0f?\u20e3|\u3299|\u3297|\u303d|\u3030|\u24c2|\ud83c[\udd70-\udd71]|\ud83c[\udd7e-\udd7f]|\ud83c\udd8e|\ud83c[\udd91-\udd9a]|\ud83c[\udde6-\uddff]|[\ud83c[\ude01-\ude02]|\ud83c\ude1a|\ud83c\ude2f|[\ud83c[\ude32-\ude3a]|[\ud83c[\ude50-\ude51]|\u203c|\u2049|[\u25aa-\u25ab]|\u25b6|\u25c0|[\u25fb-\u25fe]|\u00a9|\u00ae|\u2122|\u2139|\ud83c\udc04|[\u2600-\u26FF]|\u2b05|\u2b06|\u2b07|\u2b1b|\u2b1c|\u2b50|\u2b55|\u231a|\u231b|\u2328|\u23cf|[\u23e9-\u23f3]|[\u23f8-\u23fa]|\ud83c\udccf|\u2934|\u2935|[\u2190-\u21ff])' // U+1F680 to U+1F6FF
+          ];
+          if (str.match(ranges.join('|'))) {
+              return true;
+          } else {
+              return false;
+          }
       }
 
       // Data
