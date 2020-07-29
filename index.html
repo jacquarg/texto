@@ -16,6 +16,8 @@
         cursor: url(./res/img/SMS-STOP-01.svg), url(./res/img/SMS-STOP-01.png), pointer;
         font-family: 'Cormorant Infant', serif;
         font-size: 14pt;
+        box-sizing: border-box;
+        overflow: hidden;
       }
 
       ::-webkit-scrollbar {
@@ -169,6 +171,35 @@
         font-size: 30pt;
       }
 
+      .sendSmsContainer {
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        right: 0px;
+        width: auto;
+        height: 62px;
+        background-color: #e9e9eb;
+      }
+
+      .sendSmsTextField {
+        position: absolute;
+        font-family: helvetica; /*'Mukta', sans-serif;*/
+        font-size: 14pt;
+        padding: 7px 15px;
+       
+        border-radius: 17px;
+        display: inline-block;
+        background-color: white;
+        color: black;
+
+        width: 320px;
+        height: 28px;
+        left: 50%;
+        margin-left: -160px;
+        bottom: 10px;
+      }
+
+
       .copyright {
         position: absolute;
         bottom: 30px;
@@ -176,14 +207,47 @@
         /* TODO font */
       }
 
+      #copyright {
+        display: none;
+      }
+
+      #sendSms {
+        display: block;
+      } 
+
+      /*.smsList {
+          padding-bottom: 62px
+      }*/
+
+      @media (min-width: 576px) {
+
+        /*.smsList {
+          padding-bottom: 0px
+        }*/
+        #copyright {
+          display: block;
+        }
+
+
+        #sendSms {
+          display: none;
+        }
+
+
+
     </style>
   </head>
-  <body id="bod">
+  <body id="body">
     <div class="smsContainer" id="smsContainer"> 
       <div class="smsList" id="smsList"></div>
+      <div class="sendSmsContainer" id="sendSms">
+        <div class="sendSmsTextField">Je suis glas, glace de toi - 2020 - V</div>
+      </div>
     </div>
     <div class="countDown" id="countDown"></div>
-    <div class="copyright">Je suis glas, glace de toi - 2020 - V</div>
+    <div class="copyright" id="copyright">Je suis glas, glace de toi - 2020 - V</div>
+  
+
     <div class="explanationsContainer" id="explanations">
       <div class="explanations" >
         <div class="close" id="closeExplanations"><img src='./res/img/SMS-CROSS-02.png' /></div>
@@ -309,7 +373,7 @@
           clearTimeout(floodId)
           count = 5
 
-        //  doCountDown()
+          doCountDown()
         }
       }
 
