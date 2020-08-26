@@ -516,7 +516,7 @@
       
       function startFlood() {
         appendSms(getNextSMS())
-        floodId = setTimeout(startFlood, fixedDelay + getRandomInt(variableDelay))
+        // floodId = setTimeout(startFlood, fixedDelay + getRandomInt(variableDelay))
       }
 
       function stopFlood() {
@@ -546,7 +546,8 @@
       
       // init
       function initialize() {
-        document.getElementById('smsContainer').addEventListener("click", stopFlood)
+        document.getElementById('smsContainer').addEventListener("click", startFlood)
+        // document.getElementById('smsContainer').addEventListener("click", stopFlood)
               
         document.getElementById("explanations").addEventListener("click",
           ev => {
