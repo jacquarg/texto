@@ -14,11 +14,7 @@
     
     <style>
       html {
-        background-color: #f4f7f9;
         cursor: url(./res/img/SMS-STOP-01.svg), url(./res/img/SMS-STOP-01.png), pointer;
-        font-family: 'Cormorant Infant', serif;
-        font-size: 14pt;
-        box-sizing: border-box;
         overflow: hidden;
       }
 
@@ -44,6 +40,15 @@
         width: 100%;
         height: 100%;
       }
+
+      @media (min-width: 1100px) {
+        .smsContainer {
+           width: 1100px;
+           left: 50%;
+           margin-left: -550px;
+        }
+      }
+
 
       /* SMS ***********************************************/
       .smsList {
@@ -86,12 +91,12 @@
 
 
       .mySms {
-        background-color: rgb(24, 137, 254);
+        background-color: #0D52FF;
         color: white;
       }
 
       .itSms {
-        background-color: #e9e9eb;
+        background-color: #F7FEFF;
         color: black;
       }
 
@@ -104,7 +109,7 @@
         width: 100%;
         height: 100%;
         
-        background: rgba(255, 255, 255, 0.9);
+        background: #EDF2FACC;
         cursor: auto;
       }
 
@@ -115,7 +120,7 @@
         width: 100%;
         height: 100%;
         
-        background: white;
+        background: #fafafd;
       }
 
       .explanations > .content {
@@ -149,7 +154,7 @@
 
         .explanations > .content {
           height: 325px;
-          margin-left: 30px;
+          margin-left: 140px;
           margin-right: 30px;
         }
       }
@@ -172,6 +177,21 @@
       }
 
       /* other ***********************************************/
+
+      .menu {
+        visibility: hidden;
+      }
+
+      .activeCountDown {
+        visibility: visible;
+      }
+
+      @media(min-width: 768px) {
+        .menu {
+          visibility: visible;
+        }
+      }
+
       .countDown {
         position: absolute;
         left: 50%;
@@ -254,6 +274,7 @@
         #sendSms {
           display: none;
         }
+      }
 
 
 
@@ -261,13 +282,19 @@
   </head>
   <body id="body">
     <div class="smsContainer" id="smsContainer"> 
+      <div class="menu" id="menu">
+        <a href="./" class="home-btn"></a>
+        <a href="./participate" class="participate-btn">Participer</a>
+        <a href="./about" class="about-btn">À propos</a>
+      </div>
       <div class="smsList" id="smsList"></div>
       <div class="sendSmsContainer" id="sendSms">
         <div class="sendSmsTextField">Je suis glas, glace de toi - 2020 - <a href="https://www.vaxt.fr"  target="_blank">V</a></div>
       </div>
+      <div class="copyright" id="copyright">Je suis glas, glace de toi - 2020 - <a href="https://www.vaxt.fr"  target="_blank">V</a></div>
     </div>
     <div class="countDown" id="countDown"></div>
-    <div class="copyright" id="copyright">Je suis glas, glace de toi - 2020 - <a href="https://www.vaxt.fr"  target="_blank">V</a></div>
+    
 
 
 
@@ -275,162 +302,20 @@
       <div class="explanations" >
         <div class="close" id="closeExplanations"><img src='./res/img/SMS-CROSS-02.png' /></div>
         <div class="content">
-          <H2 class="explanations-title">Je suis glas, glace de toi</H2>
-<p>Notre téléphone est devenu à la fois 
-<br>le messager, l’interprète et le pourvoyeur 
-<br>de nos relations sans lequel notre accès 
-<br>à l’amour serait bridé.</p>
+          <p>Je suis glas, glace de toi</p>
 
-<p>Être en couple c’est un téléphone 
-<br>qui vibre en continu.</p>
-
-<p>Un message qui arrive ou qu’on attend.</p>
-
-<p>L’amour, ardent ou réservé, 
-<br>n’a plus le temps des délais contraints 
-<br>de la lettre qui parcourt monts 
-<br>et merveilles pour délivrer son message.</p>
-
-<p>L’amour est devenu un éternel présent, 
-<br>où tout nous connecte en temps réel. 
-<br>Que les nouvelles soient bonnes 
-<br>ou mauvaises, nous n’avons 
-<br>de cesse de les crier numériquement 
-<br>à qui veut bien les entendre, 
-<br>au prix d’une anxiété certaine 
-<br>si le monde nous délaisse.</p>
-
-<p>15 min ? 30 min ? qu’importe.
-<br>Vous êtes accros à votre téléphone. 
-<br>Le sel de la Vie n’est plus ce frisson 
-<br>au regard de l’être aimé, 
-<br>c’est un texto le matin. 
-<br>Un texto le midi. 
-<br>Un texto le soir.</p>
-
-<p>La vibration de poche a remplacé
-<br>la vibration réelle de la connexion, 
-<br>de la rencontre.</p>
-
-<p>Un message annoncera parfois 
-<br>que le téléphone ne vibrera plus. 
-<br>Un autre restera sans réponse.</p>
-
-<p>Voici ici le déroulé d’une relation 
-<br>amoureuse née dans la douceur, 
-<br>devenue ardente puis fanée, 
-<br>présentée sous l’angle des textos, 
-<br>marqueurs des variations d’humeur 
-<br>d’un couple en 2020.</p>
-
-<p>Le privé devient public.</p>
-
-<p>Cette pièce est un flot continu. 
-<br>Une conversation tellement rapide 
-<br>qu’on en aperçoit d’abord 
-<br>la longueur effarante.</p>
-
-<p>Mais chaque clic ouvre 
-<br>une fenêtre temporelle, 
-<br>un instant de quelques secondes, 
-<br>un aperçu de ce que nous vivons tous 
-<br>lorsqu’on partage quelque chose 
-<br>avec quelqu’un, ami ou amant.</p>
-
-<p>Entrez dans l’intime. 
-<br>Prenez un aperçu de sa vie 
-<br>et de celle de son partenaire, 
-<br>ex-partenaire.</p>
-
-<p>Observez le flot continu et aléatoire. 
-<br>Trop rapide pour l’œil nu, 
-<br>créant une sorte de pudeur, 
-<br>il laisse le choix au spectateur 
-<br>de monter son propre film, 
-<br>et selon là où il s’arrête, 
-<br>changer totalement sa perception 
-<br>de la relation.</p>
-
-<p>Jeremy Rak </p>
-
-<br>
-<br>
-
-<p>Le processus de relire et trier 
-<br>une conversation de plus 
-<br>de 5000 échanges est un travail 
-<br>difficile non dans la lecture 
-<br>mais dans la mémoire.</p>
-
-<p>Sonder le témoin de mes instants gravés 
-<br>dans le temps, au sein d’une technologie 
-<br>à portée de main.</p>
-
-<p>Apparu en 1992, le texto nous prend 
-<br>si peu de temps qu’il est devenu l’un 
-<br>de nos gestes banalisés 
-<br>en à peine trente ans.</p>
-
-<p>Catalyseur du langage, 
-<br>il a raccourci nos émotions 
-<br>et accompagné notre capacité 
-<br>a créer une conversation sans mots, 
-<br>qui s’estompent face à la puissance de l’émoji.</p>
-
-<p>Tous ces momentums permettent d’établir 
-<br>la traçabilité d’une relation 
-<br>dans la relecture, son évolution, 
-<br>les hauts et les bas émotionnels 
-<br>d’un couple.</p>
-
-<p>Dans le cas de ce travail, 
-<br>ce n’est pas l’idée de jugement 
-<br>qui prédomine, mais une mise à nu, 
-<br>un souhait de transparence au travers 
-<br>d’un contenu devenu banal 
-<br>pour chacun d’entre nous.</p>
-
-<p>Qui n’est jamais tombé amoureux 
-<br>au détour d’un texto ?</p>
-
-<p>Lorsque l’on vit cette expérience intense 
-<br>avec quelqu’un, créant un lien puissant, 
-<br>à la fois unique et commun 
-<br>mais que chacun de nous rencontre, 
-<br>démultiplié par nos interprétations 
-<br>et nos émotions, 
-<br>on emporte un être en son sein, 
-<br>une personne qui nous fait vibrer, 
-<br>en notre âme et en notre poche. 
-<br>L’Amour 2.0.</p>
-
-
-<p>Clyde Hestanoff</p>
-
-<p>Une oeuvre de <a href="https://www.vaxt.fr"  target="_blank">VAXT</a>
-<br>développée par <a href="http://hoodbrains.com" target="_blank">Guillaume Jacquart</a>.</p>
+<p>Une boucle infini
+<br>test de texto
+<br>qui défile sur l’écran.
+<br><b>Vous avez la possibilité d’arrêter
+<br>le temps pendant 5 secondes
+<br>en cliquant</b> et de dénuder l’échange
+<br>d’amour, de désir, de banalités,
+<br>ou qui sait, de découvrir
+<br>votre propre regard.</p>
         </div>
       </div>
     </div>
-<!-- CDC 
-  TODO: 
-    V emoji : si emojy seul, pas de bulle colorée taille custo tripple ... (double /  ?)
-    V bulle : pas de taille min, adapte au text.
-    N taille max : ~ 36 charactères
-    V bleu : rgb(24, 137, 254)
-
-    * en mode xs : en bas, pseudo interface de creation de message pour porter le titre 
-    *  
-    
-
-
-  * test multi devices
-  
-  * fix linebrake regex : (text: "[^"]*)\n
-
--->
-    <!--<audio preload="true" controls="none" src="./res/audio/1111.ogg" style="display: none;" > -->
-
     <script src="./sms-text.js"></script>
     <script>
       var countDownPeriod = 1000
@@ -489,9 +374,16 @@
       }
 
       function displayCountDown(count) {
-        var countStr = (count > 0) ? "" + count : "" 
+        var countStr = ""
+        var className = document.getElementById('menu').className.replaceAll("activeCountDown", "").trim()
+        if (count > 0) {
+          countStr = "" + count
+
+          className += " activeCountDown"
+        }
         
         document.getElementById('countDown').innerHTML = countStr
+        document.getElementById('menu').className = className
       }
 
       // Command

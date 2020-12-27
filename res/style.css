@@ -48,6 +48,7 @@ body {
   background: #0D52FF;
   width: 32px;
   height: 32px;
+  cursor: pointer;
 }
 
 .home-btn:hover {
@@ -57,19 +58,24 @@ body {
 }
 
 .participate-btn, .about-btn {
+  box-sizing: border-box;
   position: absolute;
-  width: 92px;
-  
+  display: block;
+  width: 110px;
+  font-family: helvetica;
+  font-size: 18px;
   background: #F7FCFF;
   padding: 4px 16px;
   border-radius: 16px;
   border: none;
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .participate-btn:hover, .about-btn:hover, 
 .participate-btn .active, .about-btn .active, {
   background: #F2F5FE;
-  cursor: pointer;
 }
 
 .participate-btn, .about-btn {
@@ -94,7 +100,7 @@ body {
   }
 
   .about-btn {
-    top: 80px;
+    top: 90px;
   }
 }
 
